@@ -7,7 +7,8 @@
 
 ## Cards
 
-- Chess Endgame Cards general - Benoni 1
+- Chess Endgame Cards general - Benoni 1: Standard size playing cards
+- The Chess Deck - 50 Cards For Mastering The Basics - Levy Rozman AKA GOTHAMCHESS: Large deck of cards
 
 ## Calendars
 
