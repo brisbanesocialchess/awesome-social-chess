@@ -4,6 +4,8 @@
 
 - **101 Questions On How To Play Chess** - Fred Wilson - Dover Game And Puzzle Activity Books
 - **Bobby Fischer Teaches Chess** - Bobby Fischer, Stuart Margulies, Donn Mosenfelder - Basic Systems Inc, Bantam Books
+- **Learn Chess From The Greats** - Peter J. Tamburro, Jr. - Dover Publications
+- **My System** - Winning Chess Strategies - Aron Nimzowitsch - SnowBall Publishing
 - **The Usborne Complete Book of Chess** - Elizabeth Dalby - Usborne Publishing Ltd
 
 ## Calendars
