@@ -4,6 +4,7 @@
 
 - **101 Questions On How To Play Chess** - Fred Wilson - Dover Game And Puzzle Activity Books
 - **Bobby Fischer Teaches Chess** - Bobby Fischer, Stuart Margulies, Donn Mosenfelder - Basic Systems Inc, Bantam Books
+- **The Usborne Complete Book of Chess** - Elizabeth Dalby - Usborne Publishing Ltd
 
 ## Calendars
 
