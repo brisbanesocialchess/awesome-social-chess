@@ -43,3 +43,11 @@ repos:
       - id: check-added-large-files
         name: Check Added Large Files
         description: Prevents adding large files to the repository
+
+  # Add ls-lint
+  - repo: https://github.com/lojjic/pre-commit-ls-lint
+    rev: v1.0.0
+    hooks:
+      - id: ls-lint
+        name: Lint filenames and directories
+        description: An extremely fast file and directory name linter
