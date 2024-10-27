@@ -1,0 +1,18 @@
+# .github/labeler.yml
+
+"books":                    # Label for changes related to books
+  - "books/**"
+  - "**/books.md"
+
+"calendars":                # Label for changes related to calendars
+  - "calendars/**"
+  - "**/calendars.md"
+
+"cards":                    # Label for changes related to cards
+  - "cards/**"
+  - "**/cards.md"
+
+"documentation":            # Label for general documentation changes
+  - "**/*.md"
+  - "README.md"
+  - "docs/**"
