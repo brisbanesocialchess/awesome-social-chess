@@ -7,7 +7,7 @@ root = true
 # Indentation style
 indent_style = space
 # Indentation size
-indent_size = 4
+indent_size = 2
 # Set the charset
 charset = utf-8
 # End of line character
@@ -16,7 +16,3 @@ end_of_line = lf
 insert_final_newline = true
 # Trim trailing whitespace
 trim_trailing_whitespace = true
-
-# Match Markdown files
-[*.md]
-indent_size = 2
