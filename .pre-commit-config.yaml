@@ -21,7 +21,6 @@ repos:
         args: ["-c", ".github/linters/.yamllint.yaml"]
         files: \.ya?ml$
 
-
   - repo: https://github.com/codespell-project/codespell
     rev: v2.3.0
     hooks:
