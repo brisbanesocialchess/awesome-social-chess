@@ -16,5 +16,5 @@ repos:
     -   id: yamllint
         name: run yamllint
         description: Lint YAML files
-        args: ["-c", ".github/linters/.yamllint.yaml"]  # Optional: specify your custom config file
+        args: ["-c", ".github/linters/.yamllint.yaml"]
         files: \.ya?ml$
