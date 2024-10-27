@@ -16,6 +16,7 @@
 - **Learn Chess From The Greats** - Peter J. Tamburro, Jr. - Dover Publications
 - **My System** - Winning Chess Strategies - Aron Nimzowitsch - SnowBall Publishing
 - **The Usborne Complete Book of Chess** - Elizabeth Dalby - Usborne Publishing Ltd
+- **Chess Openings For Dummies** - James Eade - For Dummies
 
 ## Calendars
 
