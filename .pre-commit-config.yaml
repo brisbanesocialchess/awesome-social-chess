@@ -9,3 +9,12 @@ repos:
         description: Run markdownlint on your Markdown files
         args: [--config=.github/linters/.markdown-lint.yaml]
         files: \.(md|mdown|markdown)$
+
+-   repo: https://github.com/adrienverge/yamllint
+    rev: v1.29.0  # Replace with the latest version if needed
+    hooks:
+    -   id: yamllint
+        name: Yamllint
+        description: Lint YAML files
+        args: ["-c", ".github/linters/.yamllint.yaml"]  # Optional: specify your custom config file
+        files: \.ya?ml$
