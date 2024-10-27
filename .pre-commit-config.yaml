@@ -1,19 +1,21 @@
+---
 # See https://pre-commit.com for more information
 # See https://pre-commit.com/hooks.html for more hooks
+
 repos:
--   repo: https://github.com/igorshubovych/markdownlint-cli
+  - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.42.0
     hooks:
-    -   id: markdownlint
+      - id: markdownlint
         name: Markdownlint
         description: Run markdownlint on your Markdown files
         args: [--config=.github/linters/.markdown-lint.yaml]
         files: \.(md|mdown|markdown)$
 
--   repo: https://github.com/adrienverge/yamllint
+  - repo: https://github.com/adrienverge/yamllint
     rev: v1.35.1
     hooks:
-    -   id: yamllint
+      - id: yamllint
         name: run yamllint
         description: Lint YAML files
         args: ["-c", ".github/linters/.yamllint.yaml"]
