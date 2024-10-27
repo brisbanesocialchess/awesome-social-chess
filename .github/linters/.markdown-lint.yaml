@@ -3,3 +3,6 @@
 
 # line-length - Line length
 MD013: false
+
+# MD041/first-line-heading/first-line-h1
+MD041: false
