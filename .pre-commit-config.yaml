@@ -20,3 +20,13 @@ repos:
         description: Lint YAML files
         args: ["-c", ".github/linters/.yamllint.yaml"]
         files: \.ya?ml$
+
+
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.3.0
+    hooks:
+      - id: codespell
+        args: ["--ignore-words", ".github/linters/codespell.txt"]
+
+
+  
