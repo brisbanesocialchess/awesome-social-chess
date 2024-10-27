@@ -1,8 +1,20 @@
 ---
 documentation:
-  - pattern: "**/*.md"
-    label: documentation
-  - pattern: "README.md"
-    label: documentation
-  - pattern: "docs/**"
-    label: documentation
+  - "**/*.md"
+  - "README.md"
+  - "docs/**"
+
+examples:
+  - "examples/**/*"
+
+github:
+  - ".github/**/*"
+
+source-code:
+  - "**/*.c"
+
+scripts:
+  - "**/*.sh"
+
+repo:
+  - "*"
