@@ -1,5 +1,8 @@
 ---
 documentation:
-  - "**/*.md"
-  - "README.md"
-  - "docs/**"
+  - pattern: "**/*.md"
+    label: documentation
+  - pattern: "README.md"
+    label: documentation
+  - pattern: "docs/**"
+    label: documentation
