@@ -1,6 +1,6 @@
 # .github/labeler.yml
 
-"books":                    # Label for changes related to books
+books:                    # Label for changes related to books
   - "books/**"
   - "**/books.md"
 
