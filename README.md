@@ -1,6 +1,7 @@
 # Awesome Social Chess
 
 ## Table of Contents
+
 - [Books](#books)
 - [Calendars](#calendars)
 - [Cards](#cards)
