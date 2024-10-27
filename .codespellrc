@@ -1,0 +1,20 @@
+# .codespellrc
+
+# Ignore specific words (custom words can be added here)
+ignore-words = 
+    teh
+    recieve
+    occurence
+    woth
+    skimming
+    dicovery
+
+# Ignore specific file types
+ignore-files = 
+    *.md
+    *.txt
+
+# Allow common false positives
+allow-words = 
+    Github
+    API
