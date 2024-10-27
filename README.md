@@ -1,3 +1,6 @@
+
+![Awesome Social Chess Logo](./assets/Social%20Chess%20Logo.png)
+
 # Awesome Social Chess
 
 ## Table of Contents
