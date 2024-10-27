@@ -1,20 +1,40 @@
 ---
 documentation:
-  - "**/*.md"
-  - "README.md"
-  - "docs/**"
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - "**/*.md"
+          - any-glob-to-any-file:
+              - "README.md"
+          - any-glob-to-any-file:
+              - "docs/**"
 
 examples:
-  - "examples/**/*"
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - "examples/**/*"
 
 github:
-  - ".github/**/*"
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - ".github/**/*"
 
 source-code:
-  - "**/*.c"
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - "**/*.c"
 
 scripts:
-  - "**/*.sh"
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - "**/*.sh"
 
 repo:
-  - "*"
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - "*"
