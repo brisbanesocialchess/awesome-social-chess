@@ -11,7 +11,7 @@ repos:
         files: \.(md|mdown|markdown)$
 
 -   repo: https://github.com/adrienverge/yamllint
-    rev: v1.29.0  # Replace with the latest version if needed
+    rev: v1.35.1
     hooks:
     -   id: yamllint
         name: Yamllint
