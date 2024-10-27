@@ -1,3 +1,5 @@
+<img src="./assets/social-chess-logo.png" alt="Awesome Social Chess Logo" width="150">
+
 # Awesome Social Chess
 
 ## Table of Contents
