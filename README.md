@@ -7,6 +7,7 @@
 - **Learn Chess From The Greats** - Peter J. Tamburro, Jr. - Dover Publications
 - **My System** - Winning Chess Strategies - Aron Nimzowitsch - SnowBall Publishing
 - **The Usborne Complete Book of Chess** - Elizabeth Dalby - Usborne Publishing Ltd
+- **Learn Chess: A Gold-medal Winner Explains How to Play and Win at Chess** - John Nunn - Gambit Publications Ltd
 
 ## Calendars
 
