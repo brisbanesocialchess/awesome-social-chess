@@ -7,4 +7,5 @@ repos:
     -   id: markdownlint
         name: Markdownlint
         description: Run markdownlint on your Markdown files
+        args: [--config=.github/linters/.markdown-lint.yaml]
         files: \.(md|mdown|markdown)$
