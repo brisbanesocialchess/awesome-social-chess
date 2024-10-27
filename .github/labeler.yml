@@ -1,0 +1,6 @@
+# .github/labeler.yml
+
+documentation:
+  - "**/*.md"
+  - "README.md"
+  - "docs/**"
