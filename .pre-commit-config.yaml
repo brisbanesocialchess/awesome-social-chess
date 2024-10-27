@@ -3,6 +3,23 @@
 # See https://pre-commit.com/hooks.html for more hooks
 
 repos:
+  # Add official pre-commit hooks first
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace
+        name: Trailing Whitespace
+        description: Removes trailing whitespace in text files
+      - id: end-of-file-fixer
+        name: End of File Fixer
+        description: Ensures that files end with a newline
+      - id: check-yaml
+        name: Check YAML
+        description: Checks whether YAML files are valid
+      - id: check-added-large-files
+        name: Check Added Large Files
+        description: Prevents adding large files to the repository
+
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.42.0
     hooks:
@@ -26,23 +43,6 @@ repos:
     hooks:
       - id: codespell
         args: ["--ignore-words", ".github/linters/codespell.txt"]
-
-  # Add official pre-commit hooks
-  - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v5.0.0
-    hooks:
-      - id: trailing-whitespace
-        name: Trailing Whitespace
-        description: Removes trailing whitespace in text files
-      - id: end-of-file-fixer
-        name: End of File Fixer
-        description: Ensures that files end with a newline
-      - id: check-yaml
-        name: Check YAML
-        description: Checks whether YAML files are valid
-      - id: check-added-large-files
-        name: Check Added Large Files
-        description: Prevents adding large files to the repository
 
   # Add ls-lint
   - repo: https://github.com/lojjic/pre-commit-ls-lint
