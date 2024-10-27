@@ -14,7 +14,7 @@ repos:
     rev: v1.35.1
     hooks:
     -   id: yamllint
-        name: Yamllint
+        name: run yamllint
         description: Lint YAML files
         args: ["-c", ".github/linters/.yamllint.yaml"]  # Optional: specify your custom config file
         files: \.ya?ml$
