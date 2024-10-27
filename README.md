@@ -1,5 +1,10 @@
 # Awesome Social Chess
 
+## Table of Contents
+- [Books](#books)
+- [Calendars](#calendars)
+- [Cards](#cards)
+
 ## Books
 
 - **101 Questions On How To Play Chess** - Fred Wilson - Dover Game And Puzzle Activity Books
