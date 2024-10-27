@@ -2,15 +2,15 @@
   name: "Pull Request Labeler"
 
   on:
-    push:
-      branches:
-        - main
     pull_request:
       types: [opened, synchronize]
+    push:  # Include the push event
 
   jobs:
     label:
       runs-on: ubuntu-latest
+      permissions:  # Grant permissions to the action
+        pull-requests: write  # Allow write access to PRs
 
       steps:
         - name: Pull Request Labeler
