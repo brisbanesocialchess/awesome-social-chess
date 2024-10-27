@@ -27,6 +27,4 @@ repos:
     hooks:
       - id: codespell
         args: ["--ignore-words", ".github/linters/codespell.txt"]
-
-
   
