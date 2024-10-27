@@ -20,15 +20,6 @@ repos:
         name: Check Added Large Files
         description: Prevents adding large files to the repository
 
-  # Add ls-lint
-  - repo: https://github.com/loeffel-io/ls-lint
-    rev: v0.38.0  # Check for the latest version
-    hooks:
-      - id: ls-lint
-        name: ls-lint
-        description: An extremely fast file and directory name linter
-        args: ["--config", ".ls-lint.yml"]  # Optional: customize the config path
-
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.42.0
     hooks:
