@@ -17,7 +17,6 @@ Before you begin:
 
 - **Familiarize Yourself**: Take a moment to read through the existing [issues](https://github.com/brisbanesocialchess/awesome-social-chess/issues) and [pull requests](https://github.com/brisbanesocialchess/awesome-social-chess/pulls) to understand current discussions.
 
-
 ## Creating an Issue
 
 If you encounter a bug or have a feature request, please create an issue:
@@ -45,36 +44,40 @@ Clone the forked repository to your local machine:
    git clone https://github.com/your-username/social-chess.git
    ```
 
-### 3. 🌿 Create a Branch:
+### 3. 🌿 Create a Branch
 
-    ```bash
-    cd awesome-social-chess 
-    git checkout -b add-new-feature
+  ```bash
+  cd awesome-social-chess 
+  git checkout -b add-new-feature
+  ```
 
-    ```
-### 4. ✏️ Make Changes: Make necessary improvements, such as fixing bugs, enhancing documentation, or adding new features.
+### 4. ✏️ Make Changes - Make necessary improvements, such as fixing bugs, enhancing documentation, or adding new features
 
-### 5. 📝 Commit Changes:
-   - Use descriptive commit messages that clearly state the purpose of your changes.
-   ```bash
-   git add .
-   git commit -m "Add feature: description of feature"
+### 5. 📝 Commit Changes
 
-   ```
-### 6. ⬆️ Push Changes:
-    ```bash
-    git push origin add-new-feature
-    ```
+Use descriptive commit messages that clearly state the purpose of your changes.
 
-### 7. 🔄 Create a Pull Request:
-   - Go to your forked repository on GitHub.
-   - Click **"Compare & pull request"**.
-   - Add a title and description (e.g., "Fixes #38").
-   - Click **"Create pull request"**.
+  ```bash
+  git add .
+  git commit -m "Add feature: description of feature"
+  ```
 
----
+### 6. ⬆️ Push Changes
+
+  ```bash
+  git push origin add-new-feature
+  ```
+
+### 7. 🔄 Create a Pull Request
+
+- Go to your forked repository on GitHub.
+- Click **"Compare & pull request"**.
+- Add a title and description (e.g., "Fixes #38").
+- Click **"Create pull request"**.
+
 ## Community Support
+
 If you need help or have questions:
 
-Join Discussions: Participate in discussions.
-Contact Maintainers: Reach out to project maintainers if needed.
+- Join Discussions: Participate in discussions.
+- Contact Maintainers: Reach out to project maintainers if needed.
