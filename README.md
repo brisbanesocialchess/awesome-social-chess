@@ -20,9 +20,9 @@
 
 ## Calendars
 
-- American Chess Magazine Chess 2024 - A Year of Chess Puzzles
+- **American Chess Magazine Chess 2024** - A Year of Chess Puzzles
 
 ## Cards
 
-- Chess Endgame Cards general - Benoni 1: Standard size playing cards
-- The Chess Deck - 50 Cards For Mastering The Basics - Levy Rozman AKA GOTHAMCHESS: Large deck of cards
+- **Chess Endgame Cards general: Benoni 1** - Standard size playing cards
+- **The Chess Deck** - 50 Cards For Mastering The Basics - Levy Rozman AKA GOTHAMCHESS: Large deck of cards
