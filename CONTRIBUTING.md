@@ -51,9 +51,7 @@ Clone the forked repository to your local machine:
   git checkout -b add-new-feature
   ```
 
-### 4. ✏️ Make Changes
-
-Make necessary improvements, such as fixing bugs, enhancing documentation, or adding new features
+### 4. ✏️ Make Changes - Make necessary improvements, such as fixing bugs, enhancing documentation, or adding new features
 
 ### 5. 📝 Commit Changes
 
@@ -80,5 +78,6 @@ Use descriptive commit messages that clearly state the purpose of your changes.
 ## Community Support
 
 If you need help or have questions:
+
 - Join Discussions: Participate in discussions.
 - Contact Maintainers: Reach out to project maintainers if needed.
