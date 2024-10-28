@@ -80,6 +80,5 @@ Use descriptive commit messages that clearly state the purpose of your changes.
 ## Community Support
 
 If you need help or have questions:
-
 - Join Discussions: Participate in discussions.
 - Contact Maintainers: Reach out to project maintainers if needed.
