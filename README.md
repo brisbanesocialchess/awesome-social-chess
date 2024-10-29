@@ -1,11 +1,10 @@
-<!-- markdownlint-disable MD033 -->
 <div align="center">
+
   <img src="./assets/social-chess-logo.png" alt="Awesome Social Chess Logo" width="150" style="display:block; margin:auto; border-radius:8px;">  
   
-  # Awesome Social Chess
-</div>
-
 # 🎉 Awesome Social Chess 🎉
+
+</div>
 
 ## 📚 Table of Contents
 
