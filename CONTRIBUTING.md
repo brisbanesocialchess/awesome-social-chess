@@ -47,7 +47,7 @@ Clone the forked repository to your local machine:
 ### 3. 🌿 Create a Branch
 
   ```bash
-  cd awesome-social-chess 
+  cd awesome-social-chess
   git checkout -b add-new-feature
   ```
 

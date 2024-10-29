@@ -1,8 +1,8 @@
-<!-- markdownlint-disable MD033 -->
 <div align="center">
   <img src="./assets/social-chess-logo.png" alt="Awesome Social Chess Logo" width="150">
-  
-  # Awesome Social Chess
+
+# Awesome Social Chess
+
 </div>
 
 ## Table of Contents
