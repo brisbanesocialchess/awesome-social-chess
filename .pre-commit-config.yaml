@@ -54,3 +54,8 @@ repos:
     hooks:
       - id: oxipng
         args: ["-o", "4", "--strip", "safe", "--alpha"]
+
+  - repo: https://github.com/rhysd/actionlint
+    rev: v1.7.3
+    hooks:
+      - id: actionlint
