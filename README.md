@@ -4,6 +4,8 @@
 
 # 🎉 Awesome Social Chess 🎉
 
+![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
+
 </div>
 
 ## 📚 Table of Contents
