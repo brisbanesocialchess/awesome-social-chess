@@ -6,7 +6,6 @@
 
 ![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)
 
-
 </div>
 
 ## 📚 Table of Contents
