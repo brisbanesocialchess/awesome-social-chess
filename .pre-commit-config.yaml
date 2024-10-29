@@ -44,10 +44,26 @@ repos:
       - id: codespell
         args: ["--ignore-words", ".github/linters/codespell.txt"]
 
-  # Add ls-lint
   - repo: https://github.com/lojjic/pre-commit-ls-lint
     rev: v1.0.0
     hooks:
       - id: ls-lint
         name: Lint filenames and directories
         description: An extremely fast file and directory name linter
+
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.21.2
+    hooks:
+      - id: gitleaks
+
+  - repo: https://github.com/shssoichiro/oxipng
+    rev: v9.1.2
+    hooks:
+      - id: oxipng
+        args: ["-o", "4", "--strip", "safe", "--alpha"]
+
+  - repo: https://github.com/rhysd/actionlint
+    rev: v1.7.3
+    hooks:
+      - id: actionlint
+

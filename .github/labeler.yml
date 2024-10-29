@@ -1,5 +1,18 @@
 ---
 documentation:
-  - "**/*.md"
-  - "README.md"
-  - "docs/**"
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - '**/*.md'
+
+root:
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - '*'
+
+github-actions:
+  - any:
+      - changed-files:
+          - any-glob-to-any-file:
+              - .github/**/*
