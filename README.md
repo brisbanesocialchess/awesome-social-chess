@@ -4,6 +4,7 @@
 
 # 🎉 Awesome Social Chess 🎉
 
+![codespell](https://img.shields.io/badge/codespell-enabled-brightgreen)
 ![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
 ![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)
 
