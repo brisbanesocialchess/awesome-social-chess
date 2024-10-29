@@ -9,15 +9,15 @@
 
       steps:
         - name: Checkout code
-          uses: actions/checkout@v2
+          uses: actions/checkout@v4.2.2
 
         - name: Set up Python
-          uses: actions/setup-python@v2
+          uses: actions/setup-python@v5.3.0
           with:
             python-version: '3.13'  # Specify your Python version
 
         - name: Set Python Version Hash
-          run: echo "PY=$(python -VV | sha256sum | cut -d' ' -f1)" >> $GITHUB_ENV
+          run: echo "PY=$(python -VV | sha256sum | cut -d' ' -f1)" >> "$GITHUB_ENV"
 
         - name: Cache pre-commit
           uses: actions/cache@v3
