@@ -2,9 +2,7 @@
   name: "Pull Request Labeler"
 
   on:
-    pull_request_target:  # Change from pull_request to pull_request_target
-      types: [opened, synchronize]
-    push:  # Keep the push event
+    - pull_request_target
 
   jobs:
     label:
