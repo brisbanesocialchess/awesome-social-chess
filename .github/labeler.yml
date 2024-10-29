@@ -3,7 +3,7 @@ documentation:
   - any:
       - changed-files:
           - any-glob-to-any-file:
-              - **/*.md
+              - '**/*.md'
 
 root:
   - any:
