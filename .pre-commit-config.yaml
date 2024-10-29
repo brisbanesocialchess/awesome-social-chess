@@ -43,3 +43,8 @@ repos:
     hooks:
       - id: codespell
         args: ["--ignore-words", ".github/linters/codespell.txt"]
+
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.19.0
+    hooks:
+      - id: gitleaks
