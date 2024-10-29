@@ -1,7 +1,7 @@
 <div align="center">
 
-  <img src="./assets/social-chess-logo.png" alt="Awesome Social Chess Logo" width="150" style="display:block; margin:auto; border-radius:8px;">  
-  
+  <img src="./assets/social-chess-logo.png" alt="Awesome Social Chess Logo" width="150" style="display:block; margin:auto; border-radius:8px;">
+
 # 🎉 Awesome Social Chess 🎉
 
 </div>
