@@ -3,7 +3,7 @@
   <h1>🎉 Awesome Social Chess 🎉</h1>
   <a href="https://github.com/sindresorhus/awesome">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" title="Awesome">
-  </a>  
+  </a>
 </div>
 
 [![actionlint](https://img.shields.io/badge/actionlint-enabled-brightgreen)](https://github.com/rhysd/actionlint)
