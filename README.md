@@ -6,8 +6,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![codespell](https://img.shields.io/badge/codespell-enabled-brightgreen)](https://github.com/codespell-project/codespell)
+[![codespell](https://img.shields.io/badge/codespell-enabled-brightgreen)](https://github.com/codespell-project)
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)](https://github.com/dependabot)
+[![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-brightgreen)](https://github.com/editorconfig)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)](https://github.com/pre-commit)
 
 </div>
