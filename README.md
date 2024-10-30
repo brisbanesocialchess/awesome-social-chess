@@ -7,9 +7,11 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![codespell](https://img.shields.io/badge/codespell-enabled-brightgreen)](https://github.com/codespell-project)
+[![CODEOWNERS](https://img.shields.io/badge/CODEOWNERS-enabled-brightgreen)](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)](https://github.com/dependabot)
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-brightgreen)](https://github.com/editorconfig)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)](https://github.com/pre-commit)
+[![Pull request labeler](https://img.shields.io/badge/pull_request_labeler-enabled-brightgreen)](https://github.com/actions/labeler)
 
 </div>
 
