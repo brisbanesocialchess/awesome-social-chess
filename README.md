@@ -4,9 +4,12 @@
 
 # 🎉 Awesome Social Chess 🎉
 
-![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
+[![codespell](https://img.shields.io/badge/codespell-enabled-brightgreen)](https://github.com/codespell-project)
+[![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)](https://github.com/dependabot)
+[![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-brightgreen)](https://github.com/editorconfig)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)](https://github.com/pre-commit)
 
 </div>
 
@@ -18,15 +21,16 @@
 
 ## 📖 Books
 
-| Title                                                               | Author(s)                                 | Publisher                         |
-|---------------------------------------------------------------------|-------------------------------------------|-----------------------------------|
-| **101 Questions On How To Play Chess**                              | Fred Wilson                               | Dover Game And Puzzle Activity Books |
-| **Bobby Fischer Teaches Chess**                                     | Bobby Fischer, Stuart Margulies, Donn Mosenfelder | Basic Systems Inc, Bantam Books |
-| **Chess Openings For Dummies**                                      | James Eade                                | For Dummies                       |
-| **Learn Chess: A Gold-medal Winner Explains How to Play and Win at Chess** | John Nunn                                 | Gambit Publications Ltd           |
-| **Learn Chess From The Greats**                                     | Peter J. Tamburro, Jr.                    | Dover Publications                |
-| **My System: Winning Chess Strategies**                             | Aron Nimzowitsch                          | SnowBall Publishing               |
-| **The Usborne Complete Book of Chess**                              | Elizabeth Dalby                           | Usborne Publishing Ltd            |
+| Title                                                                      | Author(s)                                         | Publisher                            |
+|----------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------|
+| **101 Questions On How To Play Chess**                                     | Fred Wilson                                       | Dover Game And Puzzle Activity Books |
+| **Bobby Fischer Teaches Chess**                                            | Bobby Fischer, Stuart Margulies, Donn Mosenfelder | Basic Systems Inc, Bantam Books      |
+| **Chess Openings For Dummies**                                             | James Eade                                        | For Dummies                          |
+| **Learn Chess: A Gold-medal Winner Explains How to Play and Win at Chess** | John Nunn                                         | Gambit Publications Ltd              |
+| **Learn Chess From The Greats**                                            | Peter J. Tamburro, Jr.                            | Dover Publications                   |
+| **My System: Winning Chess Strategies**                                    | Aron Nimzowitsch                                  | SnowBall Publishing                  |
+| **The Usborne Complete Book of Chess**                                     | Elizabeth Dalby                                   | Usborne Publishing Ltd               |
+| **MY 60 Memorable Games: Chess Tactics, Chess Strategies**                 | Bobby Fischer                                     | Batsford GB                          |
 
 ## 📅 Calendars
 
