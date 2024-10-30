@@ -20,16 +20,16 @@
 
 ## 📖 Books
 
-| Title                                                               | Author(s)                                 | Publisher                         |
-|---------------------------------------------------------------------|-------------------------------------------|-----------------------------------|
-| **101 Questions On How To Play Chess**                              | Fred Wilson                               | Dover Game And Puzzle Activity Books |
-| **Bobby Fischer Teaches Chess**                                     | Bobby Fischer, Stuart Margulies, Donn Mosenfelder | Basic Systems Inc, Bantam Books |
-| **Chess Openings For Dummies**                                      | James Eade                                | For Dummies                       |
-| **Learn Chess: A Gold-medal Winner Explains How to Play and Win at Chess** | John Nunn                                 | Gambit Publications Ltd           |
-| **Learn Chess From The Greats**                                     | Peter J. Tamburro, Jr.                    | Dover Publications                |
-| **My System: Winning Chess Strategies**                             | Aron Nimzowitsch                          | SnowBall Publishing               |
-| **The Usborne Complete Book of Chess**                              | Elizabeth Dalby                           | Usborne Publishing Ltd            |
-| **MY 60 Memorable Games: Chess Tactics, Chess Strategies**          | Bobby Fischer                             | Batsford GB
+| Title                                                                      | Author(s)                                         | Publisher                            |
+|----------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------|
+| **101 Questions On How To Play Chess**                                     | Fred Wilson                                       | Dover Game And Puzzle Activity Books |
+| **Bobby Fischer Teaches Chess**                                            | Bobby Fischer, Stuart Margulies, Donn Mosenfelder | Basic Systems Inc, Bantam Books      |
+| **Chess Openings For Dummies**                                             | James Eade                                        | For Dummies                          |
+| **Learn Chess: A Gold-medal Winner Explains How to Play and Win at Chess** | John Nunn                                         | Gambit Publications Ltd              |
+| **Learn Chess From The Greats**                                            | Peter J. Tamburro, Jr.                            | Dover Publications                   |
+| **My System: Winning Chess Strategies**                                    | Aron Nimzowitsch                                  | SnowBall Publishing                  |
+| **The Usborne Complete Book of Chess**                                     | Elizabeth Dalby                                   | Usborne Publishing Ltd               |
+| **MY 60 Memorable Games: Chess Tactics, Chess Strategies**                 | Bobby Fischer                                     | Batsford GB                          |
 
 ## 📅 Calendars
 
