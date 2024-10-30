@@ -6,11 +6,14 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![actionlint](https://img.shields.io/badge/actionlint-enabled-brightgreen)](https://github.com/rhysd/actionlint)
 [![codespell](https://img.shields.io/badge/codespell-enabled-brightgreen)](https://github.com/codespell-project)
 [![CODEOWNERS](https://img.shields.io/badge/CODEOWNERS-enabled-brightgreen)](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)](https://github.com/dependabot)
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-brightgreen)](https://github.com/editorconfig)
+[![Gitleaks](https://img.shields.io/badge/gitleaks-enabled-brightgreen)](https://github.com/gitleaks/gitleaks)
 [![markdownlint](https://img.shields.io/badge/markdownlint-enabled-brightgreen)](https://github.com/DavidAnson/markdownlint)
+[![oxipng](https://img.shields.io/badge/oxipng-enabled-brightgreen)](https://github.com/shssoichiro/oxipng)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)](https://github.com/pre-commit)
 [![Pull Request Labeler](https://img.shields.io/badge/Pull_Request_Labeler-enabled-brightgreen)](https://github.com/actions/labeler)
 [![requirements.txt](https://img.shields.io/badge/requirements.txt-enabled-brightgreen)](https://pip.pypa.io/en/stable/reference/requirements-file-format/)
