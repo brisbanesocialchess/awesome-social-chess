@@ -1,10 +1,10 @@
 <div align="center">
-
-  <img src="./assets/social-chess-logo.png" alt="Awesome Social Chess Logo" width="150" style="display:block; margin:auto; border-radius:8px;">
-
-# 🎉 Awesome Social Chess 🎉
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+  <img src="assets/social-chess-logo.png" alt="Awesome Social Chess Logo" width="150" style="display:block; margin:auto; border-radius:8px;">
+  <h1>🎉 Awesome Social Chess 🎉</h1>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" title="Awesome">
+  </a>
+</div>
 
 [![actionlint](https://img.shields.io/badge/actionlint-enabled-brightgreen)](https://github.com/rhysd/actionlint)
 [![codespell](https://img.shields.io/badge/codespell-enabled-brightgreen)](https://github.com/codespell-project)
@@ -19,8 +19,6 @@
 [![Pull Request Labeler](https://img.shields.io/badge/Pull_Request_Labeler-enabled-brightgreen)](https://github.com/actions/labeler)
 [![requirements.txt](https://img.shields.io/badge/requirements.txt-enabled-brightgreen)](https://pip.pypa.io/en/stable/reference/requirements-file-format/)
 [![yamllint](https://img.shields.io/badge/yamllint-enabled-brightgreen)](https://github.com/adrienverge/yamllint)
-
-</div>
 
 ## 📚 Table of Contents
 
