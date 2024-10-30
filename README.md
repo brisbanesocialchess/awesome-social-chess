@@ -11,7 +11,7 @@
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)](https://github.com/dependabot)
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-brightgreen)](https://github.com/editorconfig)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)](https://github.com/pre-commit)
-[![Pull request labeler](https://img.shields.io/badge/pull_request_labeler-enabled-brightgreen)](https://github.com/actions/labeler)
+[![Pull Request Labeler](https://img.shields.io/badge/Pull_Request_Labeler-enabled-brightgreen)](https://github.com/actions/labeler)
 
 </div>
 
