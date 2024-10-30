@@ -12,6 +12,7 @@
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)](https://github.com/dependabot)
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-brightgreen)](https://github.com/editorconfig)
 [![Gitleaks](https://img.shields.io/badge/gitleaks-enabled-brightgreen)](https://github.com/gitleaks/gitleaks)
+[![Makefile](https://img.shields.io/badge/Makefile-enabled-brightgreen)](https://www.gnu.org/software/make/)
 [![markdownlint](https://img.shields.io/badge/markdownlint-enabled-brightgreen)](https://github.com/DavidAnson/markdownlint)
 [![oxipng](https://img.shields.io/badge/oxipng-enabled-brightgreen)](https://github.com/shssoichiro/oxipng)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)](https://github.com/pre-commit)
