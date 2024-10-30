@@ -13,6 +13,7 @@
 [![markdownlint](https://img.shields.io/badge/markdownlint-enabled-brightgreen)](https://github.com/DavidAnson/markdownlint)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)](https://github.com/pre-commit)
 [![Pull Request Labeler](https://img.shields.io/badge/Pull_Request_Labeler-enabled-brightgreen)](https://github.com/actions/labeler)
+[![requirements.txt](https://img.shields.io/badge/requirements.txt-enabled-brightgreen)](https://pip.pypa.io/en/stable/reference/requirements-file-format/)
 [![yamllint](https://img.shields.io/badge/yamllint-enabled-brightgreen)](https://github.com/adrienverge/yamllint)
 
 </div>
