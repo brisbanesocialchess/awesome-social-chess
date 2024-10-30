@@ -33,9 +33,9 @@
 | **Chess Openings For Dummies**                                             | James Eade                                        | For Dummies                          |
 | **Learn Chess: A Gold-medal Winner Explains How to Play and Win at Chess** | John Nunn                                         | Gambit Publications Ltd              |
 | **Learn Chess From The Greats**                                            | Peter J. Tamburro, Jr.                            | Dover Publications                   |
+| **MY 60 Memorable Games: Chess Tactics, Chess Strategies**                 | Bobby Fischer                                     | Batsford GB                          |
 | **My System: Winning Chess Strategies**                                    | Aron Nimzowitsch                                  | SnowBall Publishing                  |
 | **The Usborne Complete Book of Chess**                                     | Elizabeth Dalby                                   | Usborne Publishing Ltd               |
-| **MY 60 Memorable Games: Chess Tactics, Chess Strategies**                 | Bobby Fischer                                     | Batsford GB                          |
 
 ## 📅 Calendars
 
