@@ -29,6 +29,7 @@
 | **Learn Chess From The Greats**                                     | Peter J. Tamburro, Jr.                    | Dover Publications                |
 | **My System: Winning Chess Strategies**                             | Aron Nimzowitsch                          | SnowBall Publishing               |
 | **The Usborne Complete Book of Chess**                              | Elizabeth Dalby                           | Usborne Publishing Ltd            |
+| **MY 60 Memorable Games: Chess Tactics, Chess Strategies**          | Bobby Fischer                             | Batsford GB
 
 ## 📅 Calendars
 
