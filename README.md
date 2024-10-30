@@ -10,8 +10,10 @@
 [![CODEOWNERS](https://img.shields.io/badge/CODEOWNERS-enabled-brightgreen)](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 [![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)](https://github.com/dependabot)
 [![EditorConfig](https://img.shields.io/badge/EditorConfig-enabled-brightgreen)](https://github.com/editorconfig)
+[![markdownlint](https://img.shields.io/badge/markdownlint-enabled-brightgreen)](https://github.com/DavidAnson/markdownlint)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen)](https://github.com/pre-commit)
 [![Pull Request Labeler](https://img.shields.io/badge/Pull_Request_Labeler-enabled-brightgreen)](https://github.com/actions/labeler)
+[![yamllint](https://img.shields.io/badge/yamllint-enabled-brightgreen)](https://github.com/adrienverge/yamllint)
 
 </div>
 
