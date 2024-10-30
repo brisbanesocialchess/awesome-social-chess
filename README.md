@@ -11,6 +11,7 @@
     <a href="https://github.com/dependabot"><img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-enabled-brightgreen"></a>
     <a href="https://github.com/editorconfig"><img alt="EditorConfig" src="https://img.shields.io/badge/EditorConfig-enabled-brightgreen"></a>
     <a href="https://github.com/gitleaks/gitleaks"><img alt="Gitleaks" src="https://img.shields.io/badge/gitleaks-enabled-brightgreen"></a>
+    <a href="https://github.com/jekyll"><img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-enabled-brightgreen"></a>
     <a href="https://www.gnu.org/software/make/"><img alt="Makefile" src="https://img.shields.io/badge/Makefile-enabled-brightgreen"></a>
     <a href="https://github.com/DavidAnson/markdownlint"><img alt="markdownlint" src="https://img.shields.io/badge/markdownlint-enabled-brightgreen"></a>
     <a href="https://github.com/shssoichiro/oxipng"><img alt="oxipng" src="https://img.shields.io/badge/oxipng-enabled-brightgreen"></a>
