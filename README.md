@@ -48,7 +48,11 @@
 
 ## 🃏 Cards
 
-| Title                                                               | Description                               |
-|---------------------------------------------------------------------|-------------------------------------------|
-| **Chess Endgame Cards General: Benoni 1**                           | Standard size playing cards               |
-| **The Chess Deck**                                                  | 50 Cards For Mastering The Basics - Levy Rozman AKA GOTHAMCHESS: Large deck of cards |
+| Title                                     | Description                                                                          |
+|-------------------------------------------|--------------------------------------------------------------------------------------|
+| **Chess Endgame Cards General: Benoni 1** | Standard size playing cards                                                          |
+| **The Chess Deck**                        | 50 Cards For Mastering The Basics - Levy Rozman AKA GOTHAMCHESS: Large deck of cards |
+
+## Sponsor Our Developers 🪙 💵 💰 💳 🏧
+
+[![John Bampton](assets/sponsor-jbampton.png)](https://github.com/sponsors/jbampton)
