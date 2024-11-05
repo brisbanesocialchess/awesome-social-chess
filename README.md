@@ -43,6 +43,7 @@
 | **The Caro-Kann The Easy Way**                                             | Thomas Engqvist                                   | Batsford Chess                       |
 | **The Life and Games of Mikhail Tal**                                      | Everyman Chess Classic                            | Everyman Chess                       |
 | **The Usborne Complete Book of Chess**                                     | Elizabeth Dalby                                   | Usborne Publishing Ltd               |
+| **Chess for Kids: How to Play and Win** | Richard James | Robinson; 1st edition (20 October 2010)|
 
 ## 📅 Calendars
 
