@@ -40,6 +40,7 @@
 | **Learn Chess From The Greats**                                            | Peter J. Tamburro, Jr.                            | Dover Publications                   |
 | **MY 60 Memorable Games: Chess Tactics, Chess Strategies**                 | Bobby Fischer                                     | Batsford GB                          |
 | **My System: Winning Chess Strategies**                                    | Aron Nimzowitsch                                  | SnowBall Publishing                  |
+| **The Caro-Kann The Easy Way**                                             | Thomas Engqvist                                   | Batsford Chess                       |
 | **The Life and Games of Mikhail Tal**                                      | Everyman Chess Classic                            | Everyman Chess                       |
 | **The Usborne Complete Book of Chess**                                     | Elizabeth Dalby                                   | Usborne Publishing Ltd               |
 
