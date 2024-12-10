@@ -32,7 +32,7 @@
 ## 📖 Books
 
 | Title                                                                      | Author(s)                                         | Publisher                            |
-|----------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------|
+| -------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------------ |
 | **101 Questions On How To Play Chess**                                     | Fred Wilson                                       | Dover Game And Puzzle Activity Books |
 | **Bobby Fischer Teaches Chess**                                            | Bobby Fischer, Stuart Margulies, Donn Mosenfelder | Basic Systems Inc, Bantam Books      |
 | **Chess for Kids: How to Play and Win**                                    | Richard James                                     | Robinson; 2nd edition (2015)         |
@@ -52,7 +52,7 @@
 ## 🃏 Cards
 
 | Title                                     | Description                                                                          |
-|-------------------------------------------|--------------------------------------------------------------------------------------|
+| ----------------------------------------- | ------------------------------------------------------------------------------------ |
 | **Chess Endgame Cards General: Benoni 1** | Standard size playing cards                                                          |
 | **The Chess Deck**                        | 50 Cards For Mastering The Basics - Levy Rozman AKA GOTHAMCHESS: Large deck of cards |
 
