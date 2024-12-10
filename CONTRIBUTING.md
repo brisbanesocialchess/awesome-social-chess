@@ -40,16 +40,16 @@ Click the **"Fork"** button at the top right corner of the repository page to cr
 
 Clone the forked repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/social-chess.git
-   ```
+```bash
+git clone https://github.com/your-username/social-chess.git
+```
 
 ### 3. 🌿 Create a Branch
 
-  ```bash
-  cd awesome-social-chess
-  git checkout -b add-new-feature
-  ```
+```bash
+cd awesome-social-chess
+git checkout -b add-new-feature
+```
 
 ### 4. ✏️ Make Changes - Make necessary improvements, such as fixing bugs, enhancing documentation, or adding new features
 
@@ -57,16 +57,16 @@ Clone the forked repository to your local machine:
 
 Use descriptive commit messages that clearly state the purpose of your changes.
 
-  ```bash
-  git add .
-  git commit -m "Add feature: description of feature"
-  ```
+```bash
+git add .
+git commit -m "Add feature: description of feature"
+```
 
 ### 6. ⬆️ Push Changes
 
-  ```bash
-  git push origin add-new-feature
-  ```
+```bash
+git push origin add-new-feature
+```
 
 ### 7. 🔄 Create a Pull Request
 
