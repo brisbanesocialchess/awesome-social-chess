@@ -1,19 +1,22 @@
 ---
-  name: "Pull Request Labeler"
+name: 'Pull Request Labeler'
 
-  on:
-    - pull_request_target
+on:
+  - pull_request_target
 
-  jobs:
-    label:
-      runs-on: ubuntu-latest
-      permissions:
-        pull-requests: write  # Ensure write access for PRs
+permissions:
+  contents: read
 
-      steps:
-        - name: Pull Request Labeler
-          uses: actions/labeler@v5
-          with:
-            repo-token: "${{ secrets.GITHUB_TOKEN }}"
-            configuration-path: ".github/labeler.yml"
-            sync-labels: true
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write # Ensure write access for PRs
+
+    steps:
+      - name: Pull Request Labeler
+        uses: actions/labeler@v5
+        with:
+          repo-token: '${{ secrets.GITHUB_TOKEN }}'
+          configuration-path: '.github/labeler.yml'
+          sync-labels: true
