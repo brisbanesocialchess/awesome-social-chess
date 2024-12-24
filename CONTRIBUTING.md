@@ -30,7 +30,7 @@ If you encounter a bug or have a feature request, please create an issue:
 
 ## How to Contribute
 
-We welcome contributions in the form of bug fixes, new features, documentation improvements, and more.
+We welcome contributions in the form of bugfixes, new features, documentation improvements, and more.
 
 ### 1. Fork the Repository 🔗
 
