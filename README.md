@@ -45,7 +45,7 @@
 | **The Caro-Kann The Easy Way**                                             | Thomas Engqvist                                   | Batsford Chess                          |
 | **The Life and Games of Mikhail Tal**                                      | Everyman Chess Classic                            | Everyman Chess                          |
 | **The Usborne Complete Book of Chess**                                     | Elizabeth Dalby                                   | Usborne Publishing Ltd                  |
-| Modern Chess Openings: MC0-15                                              | Nick de Firmian                                   | Random House Puzzles and Games          |
+| **Modern Chess Openings: MC0-15**                                          | Nick de Firmian                                   | Random House Puzzles and Games          |
 
 ## 📅 Calendars
 
