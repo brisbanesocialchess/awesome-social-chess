@@ -18,54 +18,56 @@ repos:
     rev: v5.0.0
     hooks:
       - id: trailing-whitespace
-        name: Trailing Whitespace
-        description: Removes trailing whitespace in text files
+        name: run trailing Whitespace
+        description: removes trailing whitespace
       - id: end-of-file-fixer
-        name: End of File Fixer
-        description: Ensures that files end with a newline
+        name: run end of file fixer
+        description: ensures that files end with a newline
       - id: check-yaml
-        name: Check YAML
-        description: Checks whether YAML files are valid
+        name: run check YAML
+        description: checks whether YAML files are valid
       - id: check-added-large-files
-        name: Check Added Large Files
-        description: Prevents adding large files to the repository
-
+        name: run check Added Large Files
+        description: prevents adding large files to the repository
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.44.0
     hooks:
       - id: markdownlint
-        name: Markdownlint
-        description: Run markdownlint on your Markdown files
+        name: run markdownlint
+        description: run markdownlint on your Markdown files
         args: [--config=.github/linters/.markdown-lint.yaml]
-        files: \.(md|mdown|markdown)$
-
+        files: \.md$
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.37.0
     hooks:
       - id: yamllint
         name: run yamllint
-        description: Lint YAML files
+        description: lint YAML files
         args: ['-c', '.github/linters/.yamllint.yaml']
         files: \.ya?ml$
-
   - repo: https://github.com/codespell-project/codespell
     rev: v2.4.1
     hooks:
       - id: codespell
+        name: run codespell
+        description: check code for common misspellings
         args: ['--ignore-words', '.github/linters/codespell.txt']
-
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.24.2
     hooks:
       - id: gitleaks
-
+        name: run gitleaks
+        description: find secrets with Gitleaks
   - repo: https://github.com/shssoichiro/oxipng
     rev: v9.1.4
     hooks:
       - id: oxipng
+        name: run oxipng
+        description: multithreaded PNG optimizer written in Rust
         args: ['-o', '4', '--strip', 'safe', '--alpha']
-
   - repo: https://github.com/rhysd/actionlint
     rev: v1.7.7
     hooks:
       - id: actionlint
+        name: run actionlint
+        description: static checker for GitHub Actions workflow files
