@@ -17,18 +17,24 @@ repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v5.0.0
     hooks:
-      - id: trailing-whitespace
-        name: run trailing Whitespace
-        description: removes trailing whitespace
       - id: end-of-file-fixer
         name: run end of file fixer
         description: ensures that files end with a newline
-      - id: check-yaml
-        name: run check YAML
-        description: checks whether YAML files are valid
+      - id: trailing-whitespace
+        name: run trailing Whitespace
+        description: removes trailing whitespace
       - id: check-added-large-files
         name: checks for adding large files
         description: prevents adding large files to the repository
+      - id: check-illegal-windows-names
+        name: run checks for illegal windows names
+        description: checks for files that cannot be created on Windows.
+      - id: check-vcs-permalinks
+        name: runs check vcs permalinks
+        description: check to ensure that links to vcs websites are permalinks
+      - id: check-yaml
+        name: run check YAML
+        description: checks whether YAML files are valid
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.44.0
     hooks:
