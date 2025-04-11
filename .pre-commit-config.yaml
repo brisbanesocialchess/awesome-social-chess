@@ -27,7 +27,7 @@ repos:
         name: run check YAML
         description: checks whether YAML files are valid
       - id: check-added-large-files
-        name: run check Added Large Files
+        name: checks for adding large files
         description: prevents adding large files to the repository
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.44.0
@@ -42,7 +42,7 @@ repos:
     hooks:
       - id: yamllint
         name: run yamllint
-        description: lint YAML files
+        description: lint your YAML files with yamllint
         args: ['-c', '.github/linters/.yamllint.yaml']
         files: \.ya?ml$
   - repo: https://github.com/codespell-project/codespell
