@@ -7,7 +7,7 @@ permissions:
   contents: read
 jobs:
   build:
-    name: run linter
+    name: Run linter
     runs-on: ubuntu-latest
     permissions:
       contents: read

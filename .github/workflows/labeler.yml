@@ -6,6 +6,7 @@ permissions:
   contents: read
 jobs:
   label:
+    name: Run labeler
     runs-on: ubuntu-latest
     permissions:
       pull-requests: write # Ensure write access for PRs
