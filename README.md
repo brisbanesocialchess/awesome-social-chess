@@ -17,6 +17,7 @@
     <a href="https://github.com/DavidAnson/markdownlint"><img alt="markdownlint" src="https://img.shields.io/badge/markdownlint-enabled-brightgreen"></a>
     <a href="https://github.com/shssoichiro/oxipng"><img alt="oxipng" src="https://img.shields.io/badge/oxipng-enabled-brightgreen"></a>
     <a href="https://github.com/pre-commit"><img alt="pre-commit" src="https://img.shields.io/badge/pre--commit-enabled-brightgreen"></a>
+    <a href="https://github.com/prettier/prettier"><img alt="prettier" src="https://img.shields.io/badge/prettier-enabled-brightgreen"></a>
     <a href="https://github.com/actions/labeler"><img alt="Pull Request Labeler" src="https://img.shields.io/badge/Pull_Request_Labeler-enabled-brightgreen"></a>
     <a href="https://pip.pypa.io/en/stable/reference/requirements-file-format/"><img alt="requirements.txt" src="https://img.shields.io/badge/requirements.txt-enabled-brightgreen"></a>
     <a href="https://github.com/adrienverge/yamllint"><img alt="yamllint" src="https://img.shields.io/badge/yamllint-enabled-brightgreen"></a>
