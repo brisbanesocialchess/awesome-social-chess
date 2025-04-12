@@ -1,0 +1,30 @@
+---
+name: First Interaction
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: read
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Welcome Message
+        uses: actions/first-interaction@v1
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: |
+            🎉 **Welcome to Our Chess Project, @{{ github.actor }}!** 🎉
+
+            We are absolutely thrilled to have you join our community!
+          pr-message: |
+            Your contribution means the world to us,
+            and we can't wait to see the amazing things we can achieve together on the chessboard.
+
+            Please feel free to ask questions and share your ideas.
+            Remember, every contribution, big or small, makes a significant impact!
+
+            Thank you for being a part of our journey. Let’s create something beautiful together! 🌟
