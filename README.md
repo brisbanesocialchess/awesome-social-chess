@@ -40,6 +40,7 @@
 | **Learn Chess: A Gold-medal Winner Explains How to Play and Win at Chess** | John Nunn                                         | Gambit Publications Ltd                 |
 | **Learn Chess From The Greats**                                            | Peter J. Tamburro, Jr.                            | Dover Publications                      |
 | **Learn To Play Chess Like A Boss**                                        | Patrick Wolff                                     | Penguin Random House Dorling Kindersley |
+| **Modern Chess Openings: MC0-15**                                          | Nick de Firmian                                   | Random House Puzzles and Games          |
 | **MY 60 Memorable Games: Chess Tactics, Chess Strategies**                 | Bobby Fischer                                     | Batsford GB                             |
 | **My System: Winning Chess Strategies**                                    | Aron Nimzowitsch                                  | SnowBall Publishing                     |
 | **The Caro-Kann The Easy Way**                                             | Thomas Engqvist                                   | Batsford Chess                          |
@@ -56,7 +57,3 @@
 | ----------------------------------------- | ------------------------------------------------------------------------------------ |
 | **Chess Endgame Cards General: Benoni 1** | Standard size playing cards                                                          |
 | **The Chess Deck**                        | 50 Cards For Mastering The Basics - Levy Rozman AKA GOTHAMCHESS: Large deck of cards |
-
-## Sponsor Our Developers 🪙 💵 💰 💳 🏧
-
-[![John Bampton](assets/sponsor-jbampton.png)](https://github.com/sponsors/jbampton)
