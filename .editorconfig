@@ -4,17 +4,11 @@
 root = true
 
 [*]
-# Indentation style
-indent_style = space
-# Indentation size
-indent_size = 2
-# Set the charset
 charset = utf-8
-# End of line character
 end_of_line = lf
-# Insert final new line at end of file
+indent_size = 2
+indent_style = space
 insert_final_newline = true
-# Trim trailing whitespace
 trim_trailing_whitespace = true
 
 [Makefile]
