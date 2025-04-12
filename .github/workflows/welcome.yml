@@ -17,6 +17,7 @@ jobs:
             🎉 **Welcome to Our Chess Project, @{{ github.actor }}!** 🎉
 
             We are absolutely thrilled to have you join our community!
+            pr-message: |
             Your contribution means the world to us, and we can't wait to see the amazing things we can achieve together on the chessboard.
 
             Please feel free to ask questions and share your ideas.
