@@ -13,7 +13,7 @@ jobs:
         uses: actions/first-interaction@v1
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-          message: |
+          issue-message: |
             🎉 **Welcome to Our Chess Project, @{{ github.actor }}!** 🎉
 
             We are absolutely thrilled to have you join our community!
