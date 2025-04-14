@@ -21,7 +21,7 @@ repos:
       - id: prettier
         name: run prettier
         description: format files with prettier
-        entry: prettier --write '**/*.yaml' '**/*.yml'
+        entry: prettier --write '**/*.md' '**/*.yaml' '**/*.yml'
         files: \.ya?ml$
         language: node
         additional_dependencies: ['prettier@3.5.3']
@@ -53,7 +53,7 @@ repos:
       - id: markdownlint
         name: run markdownlint
         description: run markdownlint on your Markdown files
-        args: [--config=.github/linters/.markdown-lint.yaml]
+        args: [--config=.github/linters/.markdown-lint.yml]
         files: \.md$
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.37.0

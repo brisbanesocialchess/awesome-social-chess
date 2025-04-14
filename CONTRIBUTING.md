@@ -21,12 +21,12 @@ Before you begin:
 
 If you encounter a bug or have a feature request, please create an issue:
 
-1. **Search Existing Issues**: Check if the issue already exists to avoid duplicates.
-2. **Open a New Issue**:
-   - Use a descriptive title.
-   - Clearly describe the problem or feature request.
-   - Provide steps to reproduce the issue, if applicable.
-   - Include screenshots or code snippets, if helpful.
+- **Search Existing Issues**: Check if the issue already exists to avoid duplicates.
+- **Open a New Issue**:
+  - Use a descriptive title.
+  - Clearly describe the problem or feature request.
+  - Provide steps to reproduce the issue, if applicable.
+  - Include screenshots or code snippets, if helpful.
 
 ## How to Contribute
 
