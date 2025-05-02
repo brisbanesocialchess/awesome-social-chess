@@ -38,6 +38,7 @@
 | **Bobby Fischer Teaches Chess**                                                    | Bobby Fischer, Stuart Margulies, Donn Mosenfelder | Basic Systems Inc, Bantam Books         |
 | **Chess for Kids: How to Play and Win**                                            | Richard James                                     | Robinson; 2nd edition (2015)            |
 | **Chess Openings For Dummies**                                                     | James Eade                                        | For Dummies                             |
+| **How Life Imitates Chess**: Life's a Game. Play to Win.                           | Gary Kasparov                                     | Penguin Books (2021)                    |
 | **Learn Chess: A Gold-medal Winner Explains How to Play and Win at Chess**         | John Nunn                                         | Gambit Publications Ltd                 |
 | **Learn Chess From The Greats**                                                    | Peter J. Tamburro, Jr.                            | Dover Publications                      |
 | **Learn To Play Chess Like A Boss**                                                | Patrick Wolff                                     | Penguin Random House Dorling Kindersley |
