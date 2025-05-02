@@ -69,7 +69,6 @@ repos:
       - id: codespell
         name: run codespell
         description: check code for common misspellings
-        args: ['--ignore-words', '.github/linters/codespell.txt']
   - repo: https://github.com/gitleaks/gitleaks
     rev: v8.24.2
     hooks:
