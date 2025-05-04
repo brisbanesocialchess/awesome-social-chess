@@ -38,15 +38,24 @@ repos:
       - id: check-added-large-files
         name: checks for adding large files
         description: prevents adding large files to the repository
+      - id: check-case-conflict
+        name: run checks for case conflicts
+        description: check for files with names that would conflict on a case-insensitive filesystem
       - id: check-illegal-windows-names
         name: run checks for illegal windows names
         description: checks for files that cannot be created on Windows.
+      - id: check-json
+        name: run check JSON
+        description: attempt to load all JSON files to verify syntax
       - id: check-vcs-permalinks
         name: runs check vcs permalinks
         description: check to ensure that links to vcs websites are permalinks
       - id: check-yaml
         name: run check YAML
         description: checks whether YAML files are valid
+      - id: detect-private-key
+        name: run check for private keys
+        description: checks for the existence of private keys
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.44.0
     hooks:
