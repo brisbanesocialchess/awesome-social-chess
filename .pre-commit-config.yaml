@@ -4,8 +4,8 @@ default_stages: [pre-commit, pre-push]
 default_language_version:
   # force all unspecified Python hooks to run python3
   python: python3
-  # force all unspecified Node hooks to run Node.js v22.14.0 LTS
-  node: 22.14.0
+  # force all unspecified Node hooks to run Node.js v22.15.0 LTS
+  node: 22.15.0
 minimum_pre_commit_version: '3.2.0'
 repos:
   - repo: meta
@@ -21,8 +21,8 @@ repos:
       - id: prettier
         name: run prettier
         description: format files with prettier
-        entry: prettier --write '**/*.md' '**/*.yaml' '**/*.yml'
-        files: \.ya?ml$
+        entry: prettier --write '**/*.json' '**/*.md' '**/*.yaml' '**/*.yml'
+        files: \.(json|md|ya?ml)$
         language: node
         additional_dependencies: ['prettier@3.5.3']
   # Add official pre-commit hooks first
@@ -65,7 +65,7 @@ repos:
         args: [--config=.github/linters/.markdown-lint.yml]
         files: \.md$
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.37.0
+    rev: v1.37.1
     hooks:
       - id: yamllint
         name: run yamllint
@@ -79,13 +79,13 @@ repos:
         name: run codespell
         description: check code for common misspellings
   - repo: https://github.com/gitleaks/gitleaks
-    rev: v8.24.2
+    rev: v8.25.1
     hooks:
       - id: gitleaks
         name: run gitleaks
         description: find secrets with Gitleaks
   - repo: https://github.com/shssoichiro/oxipng
-    rev: v9.1.4
+    rev: v9.1.5
     hooks:
       - id: oxipng
         name: run oxipng
