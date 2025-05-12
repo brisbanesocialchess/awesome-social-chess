@@ -1,64 +1,70 @@
-# 📍 Social Chess Locations
+<h1 align="center">♟️ Brisbane Social Chess Locations</h1>
 
-Welcome to the list of all known social chess locations affiliated with Brisbane Social Chess!
+<p align="center">
+  A community-driven list of all known casual chess meetup spots in Brisbane, Australia.
+  <br><br>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://awesome.re/awesome.svg" alt="Awesome" height="50">
+  </a>
+</p>
 
 ---
 
 ## 🇦🇺 Australia
 
-### Brisbane
+### 🏙️ Brisbane
 
-- **Oxford Street Pub Bulimba**
+- **Oxford Street Pub Bulimba**  
   ⏰ ...
 
-- **XXXX brewery Milton**
+- **XXXX brewery Milton**  
   ⏰ ...
 
-- **Roma Street Parklands Garden Room**
+- **Roma Street Parklands Garden Room**  
   ⏰ Sunday lunch
 
-- **Nundah Royal Hotel**
+- **Nundah Royal Hotel**  
   ⏰ Thursday night
 
-- **Fortitude Valley Empire Hotel**
+- **Fortitude Valley Empire Hotel**  
   ⏰ Saturday lunch
 
-- **East Brisbane Jones Cafe**
+- **East Brisbane Jones Cafe**  
   ⏰ Wednesday lunch
 
-- **West End Park Cafe**
+- **West End Park Cafe**  
   ⏰ Saturday lunch
 
-- **Albert Street City Chocolate Moments**
+- **Albert Street City Chocolate Moments**  
   ⏰ Friday lunch
 
-- **South Bank Hop & Pickle**
+- **South Bank Hop & Pickle**  
   ⏰ Monday night
 
-- **Captain Burke Park Kangaroo Point**
+- **Captain Burke Park Kangaroo Point**  
   ⏰ Friday lunch
 
-- **Coffee Club Charlotte Street**
+- **Coffee Club Charlotte Street**  
   ⏰ Sunday lunch
 
-- **Gilhoolies Irish Pub Albert Street City**
+- **Gilhoolies Irish Pub Albert Street City**  
   ⏰ Sunday lunch
 
-- **Star Indian Restaurant Albion**
+- **Star Indian Restaurant Albion**  
   ⏰ Monday night
 
-- **Netherworld Bar Fortitude Valley**
+- **Netherworld Bar Fortitude Valley**  
   ⏰ Tuesday night
 
-- **Pig N Whistle King George Square**
+- **Pig N Whistle King George Square**  
   ⏰ Monday afternoon
 
 ---
 
 ## 🌐 Online Platforms
 
-- **[Lichess Club](https://lichess.org/team/brisbane-social-chess)**
-- **[Chess.com Club](https://www.chess.com/club/brisbane-social-chess)**
+- **[Lichess Club](https://lichess.org/team/brisbane-social-chess)**  
+- **[Chess.com Club](https://www.chess.com/club/brisbane-social-chess)**  
 - **[ChessArena.com Club](https://chessarena.com/community/bsc)**
 
 ---
