@@ -29,7 +29,7 @@
 - **Fortitude Valley Empire Hotel**
   ⏰ Saturday lunch
 
-- **East Brisbane Jones Cafe**
+- **East Brisbane Junes Cafe**
   ⏰ Wednesday lunch
 
 - **West End Park Cafe**
