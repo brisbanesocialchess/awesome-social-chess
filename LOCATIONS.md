@@ -8,9 +8,6 @@ Welcome to the list of all known social chess locations affiliated with Brisbane
 
 ### Brisbane
 
-- **Woolloongabba Bridge Club**  
-  ⏰ Thursday night
-
 - **Roma Street Parklands Garden Room**  
   ⏰ Sunday lunch
 
