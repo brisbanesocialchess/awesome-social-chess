@@ -7,12 +7,48 @@ Welcome to the list of all known social chess locations affiliated with Brisbane
 ## 🇦🇺 Australia
 
 ### Brisbane
-- **South Bank Parklands**  
-  Weekly casual games every Saturday from 3 PM (TODO)
-  📍 Address: South Bank Parklands, Brisbane, QLD  
-  🌐 [Google Maps](https://maps.google.com/TODO_BY_JOHN)
 
-<!-- TODO -->
+- **Woolloongabba Bridge Club**  
+  ⏰ Thursday night
+
+- **Roma Street Parklands Garden Room**  
+  ⏰ Sunday lunch
+
+- **Nundah Royal Hotel**  
+  ⏰ Thursday night
+
+- **Fortitude Valley Empire Hotel**  
+  ⏰ Saturday lunch
+
+- **East Brisbane Jones Cafe**  
+  ⏰ Wednesday lunch
+
+- **West End Park Cafe**  
+  ⏰ Saturday lunch
+
+- **Albert Street City Chocolate Moments**  
+  ⏰ Friday lunch
+
+- **South Bank Hop & Pickle**  
+  ⏰ Monday night
+
+- **Captain Burke Park Kangaroo Point**  
+  ⏰ Friday lunch
+
+- **Coffee Club Charlotte Street**  
+  ⏰ Sunday lunch
+
+- **Gilhoolies Irish Pub Albert Street City**  
+  ⏰ Sunday lunch
+
+- **Star Indian Restaurant Albion**  
+  ⏰ Monday night
+
+- **Netherworld Bar Fortitude Valley**  
+  ⏰ Tuesday night
+
+- **Pig N Whistle King George Square**  
+  ⏰ Monday afternoon
 
 ---
 
