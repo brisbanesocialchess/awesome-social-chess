@@ -59,8 +59,8 @@ Welcome to the list of all known social chess locations affiliated with Brisbane
 
 ## 🌐 Online Platforms
 
-- **[Lichess Club](https://lichess.org/)**  
-- **[Chess.com Club](https://www.chess.com/)**
+- **[Lichess Club](https://lichess.org/team/brisbane-social-chess)**  
+- **[Chess.com Club](https://www.chess.com/club/brisbane-social-chess)**
 
 ---
 
