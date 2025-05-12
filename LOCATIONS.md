@@ -4,7 +4,7 @@
   A community-driven list of all known casual chess meetup spots in Brisbane, Australia.
   <br><br>
   <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://awesome.re/awesome.svg" alt="Awesome" height="50">
+    <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome" height="50">
   </a>
 </p>
 
