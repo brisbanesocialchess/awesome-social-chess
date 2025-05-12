@@ -8,8 +8,6 @@ Welcome to the list of all known social chess locations affiliated with Brisbane
 
 ### Brisbane
 
-# 📍 Social Chess Locations
-
 - **Oxford Street Pub Bulimba**
   ⏰ ...
 
