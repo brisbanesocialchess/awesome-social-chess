@@ -8,6 +8,14 @@ Welcome to the list of all known social chess locations affiliated with Brisbane
 
 ### Brisbane
 
+# 📍 Social Chess Locations
+
+- **Oxford Street Pub Bulimba**  
+  ⏰ ...
+
+- **XXXX brewery Milton**  
+  ⏰ ...
+
 - **Roma Street Parklands Garden Room**  
   ⏰ Sunday lunch
 
