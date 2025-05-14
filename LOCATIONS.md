@@ -50,7 +50,7 @@
 - **Gilhoolies Irish Pub Albert Street City**
   ⏰ Sunday lunch
 
-- **Star Indian Restaurant Albion**
+- **Sitar Indian Restaurant Albion**
   ⏰ Monday night
 
 - **Netherworld Bar Fortitude Valley**
