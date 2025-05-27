@@ -18,9 +18,9 @@
   ⏰ ...
 
 - **XXXX brewery Milton**
-  ⏰ ...
+  ⏰ Friday lunch
 
-- **Roma Street Parklands Garden Room**
+- **Roma Street Parkland's Garden Room Cafe**
   ⏰ Sunday lunch
 
 - **Nundah Royal Hotel**
@@ -61,11 +61,11 @@
 
 ---
 
-## 🌐 Online Platforms
+### 🌐 Online Platforms
 
-- **[Lichess Club](https://lichess.org/team/brisbane-social-chess)**
-- **[Chess.com Club](https://www.chess.com/club/brisbane-social-chess)**
 - **[ChessArena.com Club](https://chessarena.com/community/bsc)**
+- **[Chess.com Club](https://www.chess.com/club/brisbane-social-chess)**
+- **[Lichess Club](https://lichess.org/team/brisbane-social-chess)**
 
 ---
 
