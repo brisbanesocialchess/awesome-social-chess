@@ -27,9 +27,9 @@
 
 ## 📚 Table of Contents
 
-- [📖 Books](#books)
-- [📅 Calendars](#calendars)
-- [🃏 Cards](#cards)
+- [📖 Books](#-books)
+- [📅 Calendars](#-calendars)
+- [🃏 Cards](#-cards)
 
 ## 📖 Books
 
