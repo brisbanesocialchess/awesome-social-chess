@@ -13,6 +13,7 @@
     <a href="https://github.com/actions/first-interaction"><img alt="First Interaction" src="https://img.shields.io/badge/First_Interaction-enabled-brightgreen"></a>
     <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-enabled-brightgreen"></a>
     <a href="https://github.com/gitleaks/gitleaks"><img alt="Gitleaks" src="https://img.shields.io/badge/gitleaks-enabled-brightgreen"></a>
+    <a href="LICENSE"><img alt="GNU GENERAL PUBLIC LICENSE" src="https://img.shields.io/badge/GNU_GENERAL_PUBLIC_LICENSE-enabled-brightgreen"></a>
     <a href="https://github.com/jekyll"><img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-enabled-brightgreen"></a>
     <a href="https://github.com/loeffel-io/ls-lint"><img alt="ls lint" src="https://img.shields.io/badge/ls--lint-enabled-brightgreen"></a>
     <a href="https://www.gnu.org/software/make/"><img alt="Makefile" src="https://img.shields.io/badge/Makefile-enabled-brightgreen"></a>
