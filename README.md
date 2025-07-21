@@ -6,8 +6,8 @@
   </p>
   <p>
     <a href="https://github.com/rhysd/actionlint"><img alt="actionlint" src="https://img.shields.io/badge/actionlint-enabled-brightgreen"></a>
-    <a href="https://github.com/codespell-project"><img alt="codespell" src="https://img.shields.io/badge/codespell-enabled-brightgreen"></a>
     <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners"><img alt="CODEOWNERS" src="https://img.shields.io/badge/CODEOWNERS-enabled-brightgreen"></a>
+    <a href="https://github.com/codespell-project"><img alt="codespell" src="https://img.shields.io/badge/codespell-enabled-brightgreen"></a>
     <a href="https://github.com/dependabot"><img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-enabled-brightgreen"></a>
     <a href="https://github.com/editorconfig"><img alt="EditorConfig" src="https://img.shields.io/badge/EditorConfig-enabled-brightgreen"></a>
     <a href="https://github.com/actions/first-interaction"><img alt="First Interaction" src="https://img.shields.io/badge/First_Interaction-enabled-brightgreen"></a>
