@@ -14,50 +14,50 @@
 
 ### 🏙️ Brisbane
 
-- **Oxford Street Pub Bulimba**
-  ⏰ ...
-
-- **XXXX brewery Milton**
-  ⏰ Friday lunch
-
-- **Roma Street Parkland's Garden Room Cafe**
-  ⏰ Sunday lunch
-
-- **Nundah Royal Hotel**
-  ⏰ Thursday night
-
-- **Fortitude Valley Empire Hotel**
-  ⏰ Saturday lunch
-
-- **East Brisbane Junes Cafe**
-  ⏰ Wednesday lunch
-
-- **West End Park Cafe**
-  ⏰ Saturday lunch
-
-- **Albert Street City Chocolate Moments**
-  ⏰ Friday lunch
-
-- **South Bank Hop & Pickle**
-  ⏰ Monday night
-
 - **Captain Burke Park Kangaroo Point**
   ⏰ Friday lunch
 
-- **Coffee Club Charlotte Street**
+- **Chocolate Moments Albert Street City**
+  ⏰ Friday lunch
+
+- **Coffee Club Charlotte Street City**
+  ⏰ Sunday lunch
+
+- **Empire Hotel Fortitude Valley**
+  ⏰ Saturday lunch
+
+- **Garden Room Cafe Roma Street Parkland's**
   ⏰ Sunday lunch
 
 - **Gilhoolies Irish Pub Albert Street City**
   ⏰ Sunday lunch
 
-- **Sitar Indian Restaurant Albion**
+- **Hop & Pickle South Bank**
   ⏰ Monday night
+
+- **Junes Cafe East Brisbane**
+  ⏰ Wednesday lunch
 
 - **Netherworld Bar Fortitude Valley**
   ⏰ Tuesday night
 
+- **Oxford Street Pub Bulimba**
+  ⏰ ...
+
 - **Pig N Whistle King George Square**
   ⏰ Monday afternoon
+
+- **Royal Hotel Nundah**
+  ⏰ Thursday night
+
+- **Sitar Indian Restaurant Albion**
+  ⏰ Monday night
+
+- **West End Park Cafe**
+  ⏰ Saturday lunch
+
+- **XXXX Brewery Milton**
+  ⏰ Friday lunch
 
 ---
 
