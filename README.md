@@ -10,6 +10,7 @@
     <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners"><img alt="CODEOWNERS" src="https://img.shields.io/badge/CODEOWNERS-enabled-brightgreen"></a>
     <a href="https://github.com/dependabot"><img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-enabled-brightgreen"></a>
     <a href="https://github.com/editorconfig"><img alt="EditorConfig" src="https://img.shields.io/badge/EditorConfig-enabled-brightgreen"></a>
+    <a href="https://github.com/actions/first-interaction"><img alt="First Interaction" src="https://img.shields.io/badge/First_Interaction-enabled-brightgreen"></a>
     <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-enabled-brightgreen"></a>
     <a href="https://github.com/gitleaks/gitleaks"><img alt="Gitleaks" src="https://img.shields.io/badge/gitleaks-enabled-brightgreen"></a>
     <a href="https://github.com/jekyll"><img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-enabled-brightgreen"></a>
