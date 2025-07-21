@@ -1,15 +1,13 @@
-.PHONY: check
-check: checkinstall
+.PHONY: check checkinstall checkupdate install
+
+check c: checkinstall
 	pre-commit run --all-files
 
-.PHONY: checkinstall
-checkinstall:
+checkinstall ci: install
 	pre-commit install
 
-.PHONY: checkupdate
-checkupdate: checkinstall
+checkupdate cu: checkinstall
 	pre-commit autoupdate
 
-.PHONY: install
-install:
+install i:
 	pip install -r requirements.txt
