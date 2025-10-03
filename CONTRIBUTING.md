@@ -126,14 +126,14 @@ git push origin feature/add-new-feature
 
 ## 🎯 Contribution Types
 
-| Type | Description | Examples |
-|------|-------------|----------|
-| 🐛 **Bug Fix** | Resolve existing issues | Fix broken links, correct typos |
-| ✨ **Feature** | Add new functionality | New game modes, player profiles |
-| 📚 **Documentation** | Improve or add docs | Update README, add code comments |
-| 🎨 **Style** | UI/UX improvements | Better responsive design, animations |
-| 🧪 **Tests** | Add or improve tests | Unit tests, integration tests |
-| ♻️ **Refactor** | Code improvements | Optimize performance, clean code |
+| Type            | Description               | Examples                                 |
+| --------------- | ------------------------- | ---------------------------------------- |
+| 🐛 **Bug Fix** | Resolve existing issues   | Fix broken links, correct typos          |
+| ✨ **Feature** | Add new functionality     | New game modes, player profiles          |
+| 📚 **Documentation** | Improve or add docs  | Update README, add code comments         |
+| 🎨 **Style**    | UI/UX improvements        | Better responsive design, animations     |
+| 🧪 **Tests**    | Add or improve tests      | Unit tests, integration tests            |
+| ♻️ **Refactor** | Code improvements         | Optimize performance, clean code         |
 
 ---
 
@@ -162,6 +162,6 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 [![Contributors](https://img.shields.io/github/contributors/brisbanesocialchess/awesome-social-chess?style=for-the-badge&color=brightgreen)](https://github.com/brisbanesocialchess/awesome-social-chess/graphs/contributors)
 
-*Happy Contributing!* 🎉
+_Happy Contributing!_ 🎉
 
 </div>
