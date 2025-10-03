@@ -1,17 +1,19 @@
 # 🎉 Contributing Guide ✨
 
-Welcome to **Awesome Social Chess**! 🏆 We appreciate your interest in contributing. All contributions are welcome! 💖
+Welcome to **Awesome Social Chess**! 🏆 We appreciate your interest in 
+contributing. All contributions are welcome! 💖
 
-> 🌟 **Thank you for making our community amazing!** Every contribution, no matter how small, helps make this project better for everyone.
+> 🌟 **Thank you for making our community amazing!** Every contribution, 
+> no matter how small, helps make this project better for everyone.
 
 ## 📋 Table of Contents
 
-- [🚀 Getting Started](#-getting-started)
-- [🐛 Creating an Issue](#-creating-an-issue)
-- [🤝 How to Contribute](#-how-to-contribute)
-- [💬 Community Support](#-community-support)
-- [🎯 Contribution Types](#-contribution-types)
-- [✅ Code of Conduct](#-code-of-conduct)
+- [🚀 Getting Started](#🚀-getting-started)
+- [🐛 Creating an Issue](#🐛-creating-an-issue)
+- [🤝 How to Contribute](#🤝-how-to-contribute)
+- [💬 Community Support](#💬-community-support)
+- [🎯 Contribution Types](#🎯-contribution-types)
+- [✅ Code of Conduct](#✅-code-of-conduct)
 
 ---
 
@@ -20,10 +22,15 @@ Welcome to **Awesome Social Chess**! 🏆 We appreciate your interest in contrib
 Before you begin your contribution journey:
 
 - ⭐ **Star the Repository**: Show your support by giving us a star!
-- 👀 **Watch the Repository**: Stay updated with the latest changes and discussions.
-- 📖 **Familiarize Yourself**: Take a moment to read through the existing [issues](https://github.com/brisbanesocialchess/awesome-social-chess/issues) and [pull requests](https://github.com/brisbanesocialchess/awesome-social-chess/pulls) to understand current discussions.
+- 👀 **Watch the Repository**: Stay updated with the latest changes and 
+  discussions.
+- 📖 **Familiarize Yourself**: Take a moment to read through the existing 
+  [issues](https://github.com/brisbanesocialchess/awesome-social-chess/issues) 
+  and [pull requests](https://github.com/brisbanesocialchess/awesome-social-chess/pulls) 
+  to understand current discussions.
 
-> 💡 **Pro Tip**: Check out our [README.md](README.md) to understand the project structure and goals!
+> 💡 **Pro Tip**: Check out our [README.md](README.md) to understand the 
+> project structure and goals!
 
 ## 🐛 Creating an Issue
 
@@ -31,12 +38,15 @@ Found a bug? 🕷️ Have a brilliant idea? 💡 We'd love to hear from you!
 
 ### 🔍 Before Creating an Issue
 
-- 🔎 **Search Existing Issues**: Check if the issue already exists to avoid duplicates
-- ✅ **Check Closed Issues**: Sometimes your issue might have been resolved already
+- 🔎 **Search Existing Issues**: Check if the issue already exists to avoid 
+  duplicates
+- ✅ **Check Closed Issues**: Sometimes your issue might have been resolved 
+  already
 
 ### 📝 Opening a New Issue
 
-- 🏷️ **Use a descriptive title** (e.g., "Chess piece animation breaks on mobile")
+- 🏷️ **Use a descriptive title** (e.g., "Chess piece animation breaks on 
+  mobile")
 - 📄 **Clearly describe** the problem or feature request
 - 🔄 **Provide steps to reproduce** the issue, if applicable
 - 📸 **Include screenshots** or code snippets, if helpful
@@ -55,7 +65,8 @@ We welcome contributions in the form of:
 
 ### 1. 🍴 Fork the Repository
 
-Click the **"Fork"** button at the top right corner of the repository page to create a copy of the repository on your GitHub account.
+Click the **"Fork"** button at the top right corner of the repository page 
+to create a copy of the repository on your GitHub account.
 
 ### 2. 📥 Clone Your Fork
 
@@ -93,7 +104,8 @@ Make necessary improvements, such as:
 
 ### 5. 📝 Commit Your Changes
 
-Use descriptive commit messages that clearly state the purpose of your changes:
+Use descriptive commit messages that clearly state the purpose of your 
+changes:
 
 ```bash
 git add .
@@ -118,7 +130,8 @@ git push origin feature/add-new-feature
 
 - 🌐 Go to your forked repository on GitHub
 - 🔘 Click **"Compare & pull request"**
-- 📝 Add a clear title and description (e.g., "✨ Add player rating system - Fixes #38")
+- 📝 Add a clear title and description (e.g., "✨ Add player rating system - 
+  Fixes #38")
 - 🏷️ Link related issues using keywords like "Fixes #38" or "Closes #42"
 - 🔘 Click **"Create pull request"**
 
@@ -126,14 +139,14 @@ git push origin feature/add-new-feature
 
 ## 🎯 Contribution Types
 
-| Type            | Description               | Examples                                 |
-| --------------- | ------------------------- | ---------------------------------------- |
-| 🐛 **Bug Fix** | Resolve existing issues   | Fix broken links, correct typos          |
-| ✨ **Feature** | Add new functionality     | New game modes, player profiles          |
-| 📚 **Documentation** | Improve or add docs  | Update README, add code comments         |
-| 🎨 **Style**    | UI/UX improvements        | Better responsive design, animations     |
-| 🧪 **Tests**    | Add or improve tests      | Unit tests, integration tests            |
-| ♻️ **Refactor** | Code improvements         | Optimize performance, clean code         |
+| Type                     | Description               | Examples                         |
+| ------------------------ | ------------------------- | -------------------------------- |
+| 🐛 **Bug Fix**          | Resolve existing issues   | Fix broken links, correct typos  |
+| ✨ **Feature**          | Add new functionality     | New game modes, player profiles  |
+| 📚 **Documentation**    | Improve or add docs       | Update README, add code comments |
+| 🎨 **Style**            | UI/UX improvements        | Better responsive design         |
+| 🧪 **Tests**            | Add or improve tests      | Unit tests, integration tests    |
+| ♻️ **Refactor**         | Code improvements         | Optimize performance, clean code |
 
 ---
 
@@ -141,7 +154,8 @@ git push origin feature/add-new-feature
 
 Need help or have questions? We're here for you! 🤗
 
-- 💬 **Join Discussions**: Participate in [GitHub Discussions](https://github.com/brisbanesocialchess/awesome-social-chess/discussions)
+- 💬 **Join Discussions**: Participate in 
+  [GitHub Discussions](https://github.com/brisbanesocialchess/awesome-social-chess/discussions)
 - 📧 **Contact Maintainers**: Reach out to project maintainers if needed
 - 🆘 **Get Help**: Don't hesitate to ask questions in issues or discussions
 - 🌟 **Share Ideas**: We love hearing your creative suggestions!
@@ -150,11 +164,11 @@ Need help or have questions? We're here for you! 🤗
 
 ## ✅ Code of Conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms. 🤝
+Please note that this project is released with a 
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this 
+project, you agree to abide by its terms. 🤝
 
 ---
-
-<div align="center">
 
 ### 🙏 Thank You
 
@@ -162,6 +176,4 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 [![Contributors](https://img.shields.io/github/contributors/brisbanesocialchess/awesome-social-chess?style=for-the-badge&color=brightgreen)](https://github.com/brisbanesocialchess/awesome-social-chess/graphs/contributors)
 
-_Happy Contributing!_ 🎉
-
-</div>
+*Happy Contributing!* 🎉
