@@ -11,10 +11,15 @@ jobs:
     name: Run ls-lint
     runs-on: ubuntu-latest
     steps:
+<<<<<<< HEAD
       - name: Checkout code
         uses: actions/checkout@v5
         with:
           persist-credentials: false
       - uses: ls-lint/action@24931802763818663c27393d0801878a1f14ba4d # v2.3.1
+=======
+      - uses: actions/checkout@v5
+      - uses: ls-lint/action@v2.3.1
+>>>>>>> 4bcd168222e641e087aec71e0c67a94e6b7b9ac1
         with:
           config: .github/linters/.ls-lint.yml

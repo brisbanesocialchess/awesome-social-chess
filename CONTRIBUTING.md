@@ -56,7 +56,7 @@ Found a bug? 🕷️ Have a brilliant idea? 💡 We'd love to hear from you!
 
 We welcome contributions in the form of:
 
-- 🐛 Bug fixes
+- 🐛 bugfixes
 - ✨ New features
 - 📚 Documentation improvements
 - 🎨 UI/UX enhancements
@@ -141,9 +141,9 @@ git push origin feature/add-new-feature
 
 | Type                 | Description             | Examples                         |
 | -------------------- | ----------------------- | -------------------------------- |
-| 🐛 **Bug Fix**       | Resolve existing issues | Fix broken links, correct typos  |
+| 🐛 **Bugfix**        | Resolve existing issues | Fix broken links, correct typos  |
 | ✨ **Feature**       | Add new functionality   | New game modes, player profiles  |
-| 📚 **Documentation** | Improve or add docs     | Update README, add code comments |
+| 📚 **Documentation** | Improve or add docs     | Update readme, add code comments |
 | 🎨 **Style**         | UI/UX improvements      | Better responsive design         |
 | 🧪 **Tests**         | Add or improve tests    | Unit tests, integration tests    |
 | ♻️ **Refactor**      | Code improvements       | Optimize performance, clean code |
