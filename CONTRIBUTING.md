@@ -73,7 +73,7 @@ to create a copy of the repository on your GitHub account.
 Clone the forked repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/social-chess.git
+git clone https://github.com/your-username/awesome-social-chess.git
 cd awesome-social-chess
 ```
 
