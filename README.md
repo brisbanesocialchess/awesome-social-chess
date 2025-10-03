@@ -6,7 +6,6 @@
   </p>
 </div>
 
-
 ### 🔋 Status for the [Awesome Social Chess repository](https://github.com/brisbanesocialchess/awesome-social-chess)
 
 [![MIT License](https://img.shields.io/github/license/brisbanesocialchess/awesome-social-chess?label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
