@@ -4,28 +4,22 @@
   <p>
     <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" title="Awesome"></a>
   </p>
-  <p>
-    <a href="https://github.com/rhysd/actionlint"><img alt="actionlint" src="https://img.shields.io/badge/actionlint-enabled-brightgreen"></a>
-    <a href="https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners"><img alt="CODEOWNERS" src="https://img.shields.io/badge/CODEOWNERS-enabled-brightgreen"></a>
-    <a href="https://github.com/codespell-project"><img alt="codespell" src="https://img.shields.io/badge/codespell-enabled-brightgreen"></a>
-    <a href="https://github.com/dependabot"><img alt="Dependabot" src="https://img.shields.io/badge/Dependabot-enabled-brightgreen"></a>
-    <a href="https://github.com/editorconfig"><img alt="EditorConfig" src="https://img.shields.io/badge/EditorConfig-enabled-brightgreen"></a>
-    <a href="https://github.com/actions/first-interaction"><img alt="First Interaction" src="https://img.shields.io/badge/First_Interaction-enabled-brightgreen"></a>
-    <a href="https://pages.github.com/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-enabled-brightgreen"></a>
-    <a href="https://github.com/gitleaks/gitleaks"><img alt="Gitleaks" src="https://img.shields.io/badge/gitleaks-enabled-brightgreen"></a>
-    <a href="LICENSE"><img alt="GNU GENERAL PUBLIC LICENSE" src="https://img.shields.io/badge/GNU_GENERAL_PUBLIC_LICENSE-enabled-brightgreen"></a>
-    <a href="https://github.com/jekyll"><img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-enabled-brightgreen"></a>
-    <a href="https://github.com/loeffel-io/ls-lint"><img alt="ls lint" src="https://img.shields.io/badge/ls--lint-enabled-brightgreen"></a>
-    <a href="https://www.gnu.org/software/make/"><img alt="Makefile" src="https://img.shields.io/badge/Makefile-enabled-brightgreen"></a>
-    <a href="https://github.com/DavidAnson/markdownlint"><img alt="markdownlint" src="https://img.shields.io/badge/markdownlint-enabled-brightgreen"></a>
-    <a href="https://github.com/shssoichiro/oxipng"><img alt="oxipng" src="https://img.shields.io/badge/oxipng-enabled-brightgreen"></a>
-    <a href="https://github.com/pre-commit"><img alt="pre-commit" src="https://img.shields.io/badge/pre--commit-enabled-brightgreen"></a>
-    <a href="https://github.com/prettier/prettier"><img alt="prettier" src="https://img.shields.io/badge/prettier-enabled-brightgreen"></a>
-    <a href="https://github.com/actions/labeler"><img alt="Pull Request Labeler" src="https://img.shields.io/badge/Pull_Request_Labeler-enabled-brightgreen"></a>
-    <a href="https://pip.pypa.io/en/stable/reference/requirements-file-format/"><img alt="requirements.txt" src="https://img.shields.io/badge/requirements.txt-enabled-brightgreen"></a>
-    <a href="https://github.com/adrienverge/yamllint"><img alt="yamllint" src="https://img.shields.io/badge/yamllint-enabled-brightgreen"></a>
-  </p>
 </div>
+
+
+### 🔋 Status for the [Awesome Social Chess repository](https://github.com/brisbanesocialchess/awesome-social-chess)
+
+[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/awesome-social-chess?label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
+
+[![Dependabot Updates](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/dependabot/dependabot-updates)
+[![First Interaction Workflow Status](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/welcome.yml/badge.svg)](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/welcome.yml)
+[![Pull Request Labeler Workflow Status](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/labeler.yml/badge.svg)](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/labeler.yml)
+[![ls-lint Workflow Status](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/ls-lint.yml/badge.svg)](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/ls-lint.yml)
+[![pre-commit Workflow Status](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/pre-commit.yml)
+[![Super-Linter Workflow Status](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/super-linter.yml/badge.svg)](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/super-linter.yml)
+[![Test Git Clone Workflow Status](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/test.yml/badge.svg)](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/test.yml)
+
+---
 
 ## 📚 Table of Contents
 

@@ -1,5 +1,5 @@
 ---
-name: Super-Linter
+name: 🦸 Super-Linter
 on: # yamllint disable-line rule:truthy
   push: null
   pull_request: null
