@@ -19,9 +19,9 @@ Welcome to **Awesome Social Chess**! 🏆 We appreciate your interest in contrib
 
 Before you begin your contribution journey:
 
-- 📖 **Familiarize Yourself**: Take a moment to read through the existing [issues](https://github.com/brisbanesocialchess/awesome-social-chess/issues) and [pull requests](https://github.com/brisbanesocialchess/awesome-social-chess/pulls) to understand current discussions.
 - ⭐ **Star the Repository**: Show your support by giving us a star!
 - 👀 **Watch the Repository**: Stay updated with the latest changes and discussions.
+- 📖 **Familiarize Yourself**: Take a moment to read through the existing [issues](https://github.com/brisbanesocialchess/awesome-social-chess/issues) and [pull requests](https://github.com/brisbanesocialchess/awesome-social-chess/pulls) to understand current discussions.
 
 > 💡 **Pro Tip**: Check out our [README.md](README.md) to understand the project structure and goals!
 
@@ -29,12 +29,14 @@ Before you begin your contribution journey:
 
 Found a bug? 🕷️ Have a brilliant idea? 💡 We'd love to hear from you!
 
-### 🔍 Before Creating an Issue:
-- **Search Existing Issues**: Check if the issue already exists to avoid duplicates 🔎
-- **Check Closed Issues**: Sometimes your issue might have been resolved already ✅
+### 🔍 Before Creating an Issue
 
-### 📝 Opening a New Issue:
-- 🏷️ **Use a descriptive title** (e.g., "🐛 Chess piece animation breaks on mobile")
+- 🔎 **Search Existing Issues**: Check if the issue already exists to avoid duplicates
+- ✅ **Check Closed Issues**: Sometimes your issue might have been resolved already
+
+### 📝 Opening a New Issue
+
+- 🏷️ **Use a descriptive title** (e.g., "Chess piece animation breaks on mobile")
 - 📄 **Clearly describe** the problem or feature request
 - 🔄 **Provide steps to reproduce** the issue, if applicable
 - 📸 **Include screenshots** or code snippets, if helpful
@@ -43,8 +45,9 @@ Found a bug? 🕷️ Have a brilliant idea? 💡 We'd love to hear from you!
 ## 🤝 How to Contribute
 
 We welcome contributions in the form of:
+
 - 🐛 Bug fixes
-- ✨ New features  
+- ✨ New features
 - 📚 Documentation improvements
 - 🎨 UI/UX enhancements
 - 🧪 Tests
@@ -73,7 +76,8 @@ git checkout -b feature/add-new-feature
 git checkout -b fix/resolve-bug-issue
 ```
 
-> 📌 **Branch Naming Convention**: 
+> 📌 **Branch Naming Convention**:
+>
 > - `feature/feature-name` for new features
 > - `fix/bug-description` for bug fixes
 > - `docs/update-description` for documentation updates
@@ -81,8 +85,9 @@ git checkout -b fix/resolve-bug-issue
 ### 4. ✏️ Make Your Changes
 
 Make necessary improvements, such as:
+
 - 🔧 Fixing bugs
-- 📖 Enhancing documentation  
+- 📖 Enhancing documentation
 - ✨ Adding new features
 - 🎨 Improving UI/UX
 
@@ -98,6 +103,7 @@ git commit -m "🐛 Fix: chess board rendering issue on Safari"
 ```
 
 > 💡 **Commit Message Guidelines**:
+>
 > - Use emojis to categorize commits (✨ feature, 🐛 fix, 📚 docs, etc.)
 > - Keep the first line under 50 characters
 > - Use imperative mood ("Add" not "Added")
@@ -152,10 +158,10 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ### 🙏 Thank You!
 
-**Your contributions make this project amazing!** 
+**Your contributions make this project amazing!** 🚀
 
 [![Contributors](https://img.shields.io/github/contributors/brisbanesocialchess/awesome-social-chess?style=for-the-badge&color=brightgreen)](https://github.com/brisbanesocialchess/awesome-social-chess/graphs/contributors)
 
-*Happy Contributing! 🎉*
+*Happy Contributing!* 🎉
 
 </div>
