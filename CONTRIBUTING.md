@@ -156,7 +156,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 <div align="center">
 
-### 🙏 Thank You!
+### 🙏 Thank You
 
 **Your contributions make this project amazing!** 🚀
 
