@@ -1,5 +1,5 @@
 ---
-name: Test
+name: 🧪 Test git clone
 on:
   push:
     branches:
