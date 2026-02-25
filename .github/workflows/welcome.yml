@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   welcome:
+    name: 👽 Greetings Earthing
     runs-on: ubuntu-latest
     steps:
       - name: Send Welcome Message
