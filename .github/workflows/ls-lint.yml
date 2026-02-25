@@ -11,9 +11,9 @@ jobs:
     name: 🏃🏼 Run ls-lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
         with:
           persist-credentials: false
-      - uses: ls-lint/action@v2.3.1
+      - uses: ls-lint/action@b530dd769e259aa9fc546cc3c0098e6a0c82870e
         with:
           config: .github/linters/.ls-lint.yml
