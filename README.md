@@ -28,24 +28,24 @@
 
 ## 📖 Books
 
-| Title                                                                              | Author(s)                                         | Publisher                               |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------- | --------------------------------------- |
-| **101 Questions On How To Play Chess**                                             | Fred Wilson                                       | Dover Game And Puzzle Activity Books    |
-| **Bobby Fischer Teaches Chess**                                                    | Bobby Fischer, Stuart Margulies, Donn Mosenfelder | Basic Systems Inc, Bantam Books         |
-| **Chess for Kids**: How to Play and Win                                            | Richard James                                     | Robinson; 2nd edition (2015)            |
-| **Chess Openings For Dummies**                                                     | James Eade                                        | For Dummies                             |
-| **How Life Imitates Chess**: Life's a Game. Play to Win.                           | Gary Kasparov                                     | Penguin Books (2021)                    |
-| **How To Beat Your Dad At Chess**: Including the 50 Deadly Checkmates              | Murray Chandler                                   | Gambit Publications Ltd                 |
-| **Learn Chess**: A Gold-medal Winner Explains How to Play and Win at Chess         | John Nunn                                         | Gambit Publications Ltd                 |
-| **Learn Chess From The Greats**                                                    | Peter J. Tamburro, Jr.                            | Dover Publications                      |
-| **Learn To Play Chess Like A Boss**                                                | Patrick Wolff                                     | Penguin Random House Dorling Kindersley |
-| **Modern Chess Openings: MC0-15**                                                  | Nick de Firmian                                   | Random House Puzzles and Games          |
-| **MY 60 Memorable Games: Chess Tactics, Chess Strategies**                         | Bobby Fischer                                     | Batsford GB                             |
-| **My System: Winning Chess Strategies**                                            | Aron Nimzowitsch                                  | SnowBall Publishing                     |
-| **The Caro-Kann The Easy Way**                                                     | Thomas Engqvist                                   | Batsford Chess                          |
-| **The Chess Player's Bible**: Illustrated Strategies For Staying Ahead Of The Game | Eade & Lawrence                                   | Apple Press A Quarto Book               |
-| **The Life and Games of Mikhail Tal**                                              | Everyman Chess Classic                            | Everyman Chess                          |
-| **The Usborne Complete Book of Chess**                                             | Elizabeth Dalby                                   | Usborne Publishing Ltd                  |
+| Title                                                                              | Author(s)                                                                                                                 | Publisher                               |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| **101 Questions On How To Play Chess**                                             | [Fred Wilson](https://www.fredwilsonchess.com/)                                                                           | Dover Game And Puzzle Activity Books    |
+| **Bobby Fischer Teaches Chess**                                                    | [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer), Stuart Margulies, Donn Mosenfelder                          | Basic Systems Inc, Bantam Books         |
+| **Chess for Kids**: How to Play and Win                                            | [Richard James](https://chesswithrichard.uk/)                                                                             | Robinson; 2nd edition (2015)            |
+| **Chess Openings For Dummies**                                                     | [James Eade](https://en.wikipedia.org/wiki/James_Eade)                                                                    | For Dummies                             |
+| **How Life Imitates Chess**: Life's a Game. Play to Win.                           | [Gary Kasparov](https://en.wikipedia.org/wiki/Garry_Kasparov)                                                             | Penguin Books (2021)                    |
+| **How To Beat Your Dad At Chess**: Including the 50 Deadly Checkmates              | [Murray Chandler](https://en.wikipedia.org/wiki/Murray_Chandler)                                                          | Gambit Publications Ltd                 |
+| **Learn Chess**: A Gold-medal Winner Explains How to Play and Win at Chess         | [John Nunn](https://en.wikipedia.org/wiki/John_Nunn)                                                                      | Gambit Publications Ltd                 |
+| **Learn Chess From The Greats**                                                    | Peter J. Tamburro, Jr.                                                                                                    | Dover Publications                      |
+| **Learn To Play Chess Like A Boss**                                                | [Patrick Wolff](https://en.wikipedia.org/wiki/Patrick_Wolff)                                                              | Penguin Random House Dorling Kindersley |
+| **Modern Chess Openings: MC0-15**                                                  | [Nick de Firmian](https://en.wikipedia.org/wiki/Nick_de_Firmian)                                                          | Random House Puzzles and Games          |
+| **MY 60 Memorable Games: Chess Tactics, Chess Strategies**                         | [Bobby Fischer](https://en.wikipedia.org/wiki/Bobby_Fischer)                                                              | Batsford GB                             |
+| **My System: Winning Chess Strategies**                                            | [Aron Nimzowitsch](https://en.wikipedia.org/wiki/Aron_Nimzowitsch)                                                        | SnowBall Publishing                     |
+| **The Caro-Kann The Easy Way**                                                     | [Thomas Engqvist](https://en.wikipedia.org/wiki/Thomas_Engqvist)                                                          | Batsford Chess                          |
+| **The Chess Player's Bible**: Illustrated Strategies For Staying Ahead Of The Game | [Eade](https://en.wikipedia.org/wiki/James_Eade) & [Lawrence](<https://en.wikipedia.org/wiki/Al_Lawrence_(chess_writer)>) | Apple Press A Quarto Book               |
+| **The Life and Games of Mikhail Tal**                                              | [Mikhail Tal](https://en.wikipedia.org/wiki/Mikhail_Tal)                                                                  | Everyman Chess                          |
+| **The Usborne Complete Book of Chess**                                             | Elizabeth Dalby                                                                                                           | Usborne Publishing Ltd                  |
 
 ## 📅 Calendars
 
