@@ -1,5 +1,6 @@
 ---
 ls:
   .json: snake_case
+  .txt: kebab-case
   .yaml: regex:[._]?[a-z]+(-[a-z]+)*
   .yml: regex:[._]?[a-z]+(-[a-z]+)*
