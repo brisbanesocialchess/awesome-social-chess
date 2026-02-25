@@ -15,12 +15,12 @@ jobs:
       - name: Send Welcome Message
         uses: actions/first-interaction@v3
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: |
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          issue_message: |
             🎉 **Welcome to Our Chess Project, @{{ github.actor }}!** 🎉
 
             We are absolutely thrilled to have you join our community!
-          pr-message: |
+          pr_message: |
             Your contribution means the world to us,
             and we can't wait to see the amazing things we can achieve together on the chessboard.
 
