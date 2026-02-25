@@ -2,4 +2,4 @@
 rules:
   dangerous-triggers:
     ignore:
-      - labeler.yml
+      - .github/workflows/labeler.yml
