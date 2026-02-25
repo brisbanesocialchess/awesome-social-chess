@@ -8,7 +8,7 @@ permissions:
 
 jobs:
   pre-commit:
-    name: Run pre-commit # https://pre-commit.com/
+    name: 🏃🏿‍♂️‍➡️ Run pre-commit # https://pre-commit.com/
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405
         with:
-          python-version: '3.13' # Specify your Python version
+          python-version: '3.14' # Specify your Python version
       - name: Set Python Version Hash
         run: echo "PY=$(python -VV | sha256sum | cut -d' ' -f1)" >> "$GITHUB_ENV"
       - name: Cache pre-commit
