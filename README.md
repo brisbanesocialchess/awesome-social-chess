@@ -8,7 +8,7 @@
 
 ### 🔋 Status for the [Awesome Social Chess repository](https://github.com/brisbanesocialchess/awesome-social-chess)
 
-[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/awesome-social-chess?label=%E2%9A%96%EF%B8%8F%20license)](../LICENSE)
+[![MIT License](https://img.shields.io/github/license/brisbanesocialchess/awesome-social-chess?label=%E2%9A%96%EF%B8%8F%20license)](https://github.com/brisbanesocialchess/awesome-social-chess/blob/main/LICENSE)
 
 [![Dependabot Updates](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/dependabot/dependabot-updates)
 [![First Interaction Workflow Status](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/welcome.yml/badge.svg)](https://github.com/brisbanesocialchess/awesome-social-chess/actions/workflows/welcome.yml)
