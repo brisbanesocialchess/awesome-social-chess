@@ -1,0 +1,5 @@
+---
+rules:
+  dangerous-triggers:
+    ignore:
+      - .github/workflows/labeler.yml
